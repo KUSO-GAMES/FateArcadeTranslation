@@ -34,6 +34,6 @@ Files that have not been touched are not in this repo.
 
 <img width="960" height="540" alt="vlc_uCZeu7IUAd" src="https://github.com/user-attachments/assets/d25e6554-a210-452a-86ab-488d94f25672" />
 <img width="960" height="540" alt="firefox_pkuKuG6GlT" src="https://github.com/user-attachments/assets/851bebc4-27f7-4132-be97-9f04b96806d4" />
-![firefox_pEokMRMXkE](https://github.com/user-attachments/assets/7953ed72-1f07-47cd-bac9-134b16ce5430)
+<img width="960" height="540" alt="firefox_pkuKuG6GlT" src="https://github.com/user-attachments/assets/7953ed72-1f07-47cd-bac9-134b16ce5430" />
 <img width="796" height="318" alt="ago1100_d0w785SVhn" src="https://github.com/user-attachments/assets/8a02245f-e6c9-49a3-b8a0-5abe955e80b1" />
 <img width="822" height="308" alt="ago1100_6t4FZF6zJV" src="https://github.com/user-attachments/assets/41138e15-f61d-4f97-a1fb-d18744b9f2f4" />
