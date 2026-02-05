@@ -1,4 +1,4 @@
-Translation Tracker ver 00.01 / TL-Tracker.xlsx by NOGAMES
+Translation Tracker ver 00.01 by NOGAMES
 Some translation by NOGAMES
 
 WARNING: Always back up your old files before replacing them with the translated files.
@@ -50,5 +50,6 @@ Began initial image unpacking and editing for various sprites.
 *NOTE: These are naturally the equivalents of 'hard subs' and take a great deal more work.
 *NOTE: These are individually unpacked in various .DDS files as groups of sprites, edited one by one and repacked.
 *NOTE: Some sprites may be skipped from translation within packs at this time. 
+
 
 These will be uploaded in translation 00.02 with more details on what's changing.
