@@ -1,3 +1,26 @@
+Fork of Haruka Akechi's FGO Arcade translation
+See: 'Update notes FGOA ver. 11.00 - Translation ver. xx.xx.txt' for the updates within this release as well as important details.
+See: 'FGOA Version 11.00 TranslationTracker Version xx.xx1.xlsx' for the current status of translation progress.
+
+
+Translation Tracker by NOGAMES
+Some translation by NOGAMES
+
+WARNING: Always back up your old files before replacing them with the translated files.
+WARNING: These have not yet been QCed for 'fit' within the game text bounds.
+WARNING: I have not made enough progress to validate translation additions in-game yet.
+User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation.
+
+Just replace all files with those found in rom folder in appropriate directories.
+The directory titled 'new (for reference only)' contains the files changed in this version and does not need to be added to the game files.
+
+Credits to Haruka Akechi for tools used to unpack/repack files and for initial translation across various files.
+
+
+
+
+
+
 # Fate/Grand Order Arcade Translation
 
 2025-2026 Haruka
