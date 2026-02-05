@@ -1,0 +1,29 @@
+﻿ utf8-dos
+
+mi.version=0x1804
+mi.length=3
+
+#ミッションID＆全達成報酬
+mi.mission_id=1
+mi.comp_gift_id=999
+
+#ミッション定義
+mi.0.id=1
+mi.0.ng=0
+mi.0.text=Clear 'Burning City' without losing any units.
+mi.0.cond=QUEST_CLEAR
+mi.0.param1=0
+mi.0.gift_id=368
+
+mi.1.id=2
+mi.1.ng=0
+mi.1.cond=CHAIN_NUM
+mi.1.param1=2
+mi.1.gift_id=368
+
+mi.2.id=3
+mi.2.ng=0
+mi.2.cond=SINGLE_DAMAGE
+mi.2.param1=3000
+mi.2.gift_id=368
+

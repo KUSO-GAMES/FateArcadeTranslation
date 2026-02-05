@@ -1,0 +1,3416 @@
+﻿ utf8-dos
+
+id_num_max=259
+
+# 0章炎上都市
+spot_id1=10001
+sing_id1=0
+spot_name1=Unknown Coordinates X-A
+spot_area1=a
+spot_x1=678
+spot_y1=368
+disp_type1=NONE
+active_type1=NONE
+active_id1=0
+disp_time1=2018-01-01T00:00:00
+open_time1=2018-01-01T00:00:00
+close_time1=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id2=10002
+sing_id2=0
+spot_name2=Unknown Coordinates X-B
+spot_area2=b
+spot_x2=778
+spot_y2=765
+disp_type2=NONE
+active_type2=QUEST_CLEAR
+active_id2=1
+disp_time2=2018-01-01T00:00:00
+open_time2=2018-01-01T00:00:00
+close_time2=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id3=10003
+sing_id3=0
+spot_name3=Unknown Coordinates X-C
+spot_area3=c
+spot_x3=1175
+spot_y3=553
+disp_type3=NONE
+active_type3=QUEST_CLEAR
+active_id3=4
+disp_time3=2018-01-01T00:00:00
+open_time3=2018-01-01T00:00:00
+close_time3=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id4=10004
+sing_id4=0
+spot_name4=Unknown Coordinates X-D
+spot_area4=d
+spot_x4=1249
+spot_y4=293
+disp_type4=NONE
+active_type4=QUEST_CLEAR
+active_id4=7
+disp_time4=2018-01-01T00:00:00
+open_time4=2018-01-01T00:00:00
+close_time4=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id5=10005
+sing_id5=0
+spot_name5=Unknown Coordinates X-E
+spot_area5=e
+spot_x5=1618
+spot_y5=734
+disp_type5=NONE
+active_type5=QUEST_CLEAR
+active_id5=10
+disp_time5=2018-01-01T00:00:00
+open_time5=2018-01-01T00:00:00
+close_time5=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id6=10006
+sing_id6=0
+spot_name6=Unknown Coordinates X-F
+spot_area6=f
+spot_x6=524
+spot_y6=637
+disp_type6=NONE
+active_type6=QUEST_CLEAR
+active_id6=13
+disp_time6=2018-01-01T00:00:00
+open_time6=2018-01-01T00:00:00
+close_time6=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id7=10007
+sing_id7=0
+spot_name7=Unknown Coordinates X-G
+spot_area7=g
+spot_x7=365
+spot_y7=849
+disp_type7=NONE
+active_type7=QUEST_CLEAR
+active_id7=16
+disp_time7=2018-01-01T00:00:00
+open_time7=2018-01-01T00:00:00
+close_time7=2999-12-31T23:59:59
+
+# 0章炎上都市
+spot_id8=10008
+sing_id8=0
+spot_name8=Mobile Coordinate No.0
+spot_area8=x
+spot_x8=370
+spot_y8=483
+disp_type8=NONE
+active_type8=QUEST_CLEAR
+active_id8=19
+disp_time8=2018-01-01T00:00:00
+open_time8=2018-01-01T00:00:00
+close_time8=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id9=10101
+sing_id9=1
+spot_name9=Domremy
+spot_area9=10101
+spot_x9=1483
+spot_y9=380
+disp_type9=NONE
+active_type9=NONE
+active_id9=0
+disp_time9=2018-01-01T00:00:00
+open_time9=2018-01-01T00:00:00
+close_time9=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id10=10102
+sing_id10=1
+spot_name10=Vaucouleurs
+spot_area10=10102
+spot_x10=1296
+spot_y10=322
+disp_type10=NONE
+active_type10=QUEST_CLEAR
+active_id10=69
+disp_time10=2018-01-01T00:00:00
+open_time10=2018-01-01T00:00:00
+close_time10=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id11=10103
+sing_id11=1
+spot_name11=La Charite
+spot_area11=10103
+spot_x11=1046
+spot_y11=517
+disp_type11=NONE
+active_type11=QUEST_CLEAR
+active_id11=72
+disp_time11=2018-01-01T00:00:00
+open_time11=2018-01-01T00:00:00
+close_time11=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id12=10104
+sing_id12=1
+spot_name12=Jura
+spot_area12=10104
+spot_x12=1326
+spot_y12=582
+disp_type12=NONE
+active_type12=QUEST_CLEAR
+active_id12=75
+disp_time12=2018-01-01T00:00:00
+open_time12=2018-01-01T00:00:00
+close_time12=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id13=10105
+sing_id13=1
+spot_name13=Lyon
+spot_area13=10105
+spot_x13=1310
+spot_y13=785
+disp_type13=NONE
+active_type13=QUEST_CLEAR
+active_id13=78
+disp_time13=2018-01-01T00:00:00
+open_time13=2018-01-01T00:00:00
+close_time13=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id14=10106
+sing_id14=1
+spot_name14=Thiers
+spot_area14=10106
+spot_x14=887
+spot_y14=697
+disp_type14=NONE
+active_type14=QUEST_CLEAR
+active_id14=81
+disp_time14=2018-01-01T00:00:00
+open_time14=2018-01-01T00:00:00
+close_time14=2999-12-31T23:59:59
+
+# 1章オルレアン
+spot_id15=10107
+sing_id15=1
+spot_name15=Orleans
+spot_area15=10107
+spot_x15=755
+spot_y15=403
+disp_type15=NONE
+active_type15=QUEST_CLEAR
+active_id15=84
+disp_time15=2018-01-01T00:00:00
+open_time15=2018-01-01T00:00:00
+close_time15=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id21=10201
+sing_id21=2
+spot_name21=Appia Road
+spot_area21=10201
+spot_x21=1421
+spot_y21=775
+disp_type21=NONE
+active_type21=NONE
+active_id21=0
+disp_time21=2018-01-01T00:00:00
+open_time21=2018-01-01T00:00:00
+close_time21=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id22=10202
+sing_id22=2
+spot_name22=Rome
+spot_area22=10202
+spot_x22=1193
+spot_y22=727
+disp_type22=NONE
+active_type22=QUEST_CLEAR
+active_id22=108
+disp_time22=2018-01-01T00:00:00
+open_time22=2018-01-01T00:00:00
+close_time22=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id24=10204
+sing_id24=2
+spot_name24=Mediolanum
+spot_area24=10204
+spot_x24=918
+spot_y24=515
+disp_type24=NONE
+active_type24=QUEST_CLEAR
+active_id24=111
+disp_time24=2018-01-01T00:00:00
+open_time24=2018-01-01T00:00:00
+close_time24=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id25=10205
+sing_id25=2
+spot_name25=Massilia
+spot_area25=10205
+spot_x25=698
+spot_y25=609
+disp_type25=NONE
+active_type25=QUEST_CLEAR
+active_id25=114
+disp_time25=2018-01-01T00:00:00
+open_time25=2018-01-01T00:00:00
+close_time25=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id26=10206
+sing_id26=2
+spot_name26=Gaul
+spot_area26=10206
+spot_x26=639
+spot_y26=372
+disp_type26=NONE
+active_type26=QUEST_CLEAR
+active_id26=117
+disp_time26=2018-01-01T00:00:00
+open_time26=2018-01-01T00:00:00
+close_time26=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id27=10207
+sing_id27=2
+spot_name27=Shaped Isle
+spot_area27=10207
+spot_x27=819
+spot_y27=809
+disp_type27=NONE
+active_type27=QUEST_CLEAR
+active_id27=120
+disp_time27=2018-01-01T00:00:00
+open_time27=2018-01-01T00:00:00
+close_time27=2999-12-31T23:59:59
+
+# 2章セプテム
+spot_id28=10208
+sing_id28=2
+spot_name28=Alliance Capital
+spot_area28=10208
+spot_x28=406
+spot_y28=814
+disp_type28=NONE
+active_type28=QUEST_CLEAR
+active_id28=129
+disp_time28=2018-01-01T00:00:00
+open_time28=2018-01-01T00:00:00
+close_time28=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id34=10301
+sing_id34=3
+spot_name34=Pirate Ship
+spot_area34=10301
+spot_x34=1106
+spot_y34=944
+disp_type34=NONE
+active_type34=NONE
+active_id34=0
+disp_time34=2018-01-01T00:00:00
+open_time34=2018-01-01T00:00:00
+close_time34=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id35=10302
+sing_id35=3
+spot_name35=Pirate Island
+spot_area35=10302
+spot_x35=1370
+spot_y35=893
+disp_type35=NONE
+active_type35=QUEST_CLEAR
+active_id35=196
+disp_time35=2018-01-01T00:00:00
+open_time35=2018-01-01T00:00:00
+close_time35=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id36=10303
+sing_id36=3
+spot_name36=King's Abode Island
+spot_area36=10303
+spot_x36=1632
+spot_y36=655
+disp_type36=NONE
+active_type36=QUEST_CLEAR
+active_id36=197
+disp_time36=2018-01-01T00:00:00
+open_time36=2018-01-01T00:00:00
+close_time36=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id37=10304
+sing_id37=3
+spot_name37=Mapped Island
+spot_area37=10304
+spot_x37=1288
+spot_y37=316
+disp_type37=NONE
+active_type37=QUEST_CLEAR
+active_id37=197
+disp_time37=2018-01-01T00:00:00
+open_time37=2018-01-01T00:00:00
+close_time37=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id38=10305
+sing_id38=3
+spot_name38=Two-Current Sea
+spot_area38=10305
+spot_x38=854
+spot_y38=312
+disp_type38=NONE
+active_type38=QUEST_CLEAR
+active_id38=198
+disp_time38=2018-01-01T00:00:00
+open_time38=2018-01-01T00:00:00
+close_time38=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id40=10307
+sing_id40=3
+spot_name40=Stormy Seas
+spot_area40=10307
+spot_x40=724
+spot_y40=631
+disp_type40=NONE
+active_type40=QUEST_CLEAR
+active_id40=199
+disp_time40=2018-01-01T00:00:00
+open_time40=2018-01-01T00:00:00
+close_time40=2999-12-31T23:59:59
+
+# 3章オケアノス
+spot_id41=10308
+sing_id41=3
+spot_name41=Archipelago
+spot_area41=10303
+spot_x41=311
+spot_y41=764
+disp_type41=NONE
+active_type41=QUEST_CLEAR
+active_id41=200
+disp_time41=2018-01-01T00:00:00
+open_time41=2018-01-01T00:00:00
+close_time41=2999-12-31T23:59:59
+
+# 4章ロンドン
+spot_id46=10402
+sing_id46=4
+spot_name46=White Chapel
+spot_area46=10402
+spot_x46=1655
+spot_y46=523
+disp_type46=NONE
+active_type46=NONE
+active_id46=0
+disp_time46=2018-01-01T00:00:00
+open_time46=2018-01-01T00:00:00
+close_time46=2999-12-31T23:59:59
+
+# 4章ロンドン
+spot_id47=10403
+sing_id47=4
+spot_name47=City of London
+spot_area47=10403
+spot_x47=1267
+spot_y47=557
+disp_type47=NONE
+active_type47=QUEST_CLEAR
+active_id47=278
+disp_time47=2018-01-01T00:00:00
+open_time47=2018-01-01T00:00:00
+close_time47=2999-12-31T23:59:59
+
+# 4章ロンドン
+spot_id48=10404
+sing_id48=4
+spot_name48=Soho
+spot_area48=10404
+spot_x48=625
+spot_y48=592
+disp_type48=NONE
+active_type48=QUEST_CLEAR
+active_id48=279
+disp_time48=2018-01-01T00:00:00
+open_time48=2018-01-01T00:00:00
+close_time48=2999-12-31T23:59:59
+
+# 4章ロンドン
+spot_id49=10405
+sing_id49=4
+spot_name49=Westminster 
+spot_area49=10405
+spot_x49=605
+spot_y49=940
+disp_type49=NONE
+active_type49=QUEST_CLEAR
+active_id49=280
+disp_time49=2018-01-01T00:00:00
+open_time49=2018-01-01T00:00:00
+close_time49=2999-12-31T23:59:59
+
+# 4章ロンドン
+spot_id50=10406
+sing_id50=4
+spot_name50=Regent Park
+spot_area50=10406
+spot_x50=591
+spot_y50=299
+disp_type50=NONE
+active_type50=QUEST_CLEAR
+active_id50=281
+disp_time50=2018-01-01T00:00:00
+open_time50=2018-01-01T00:00:00
+close_time50=2999-12-31T23:59:59
+
+# 5章イ・プルーリバス・ウナム
+spot_id54=10502
+sing_id54=5
+spot_name54=Riverton
+spot_area54=10502
+spot_x54=673
+spot_y54=270
+disp_type54=NONE
+active_type54=NONE
+active_id54=0
+disp_time54=2018-01-01T00:00:00
+open_time54=2018-01-01T00:00:00
+close_time54=2999-12-31T23:59:59
+
+# 5章イ・プルーリバス・ウナム
+spot_id55=10503
+sing_id55=5
+spot_name55=Denver
+spot_area55=10503
+spot_x55=793
+spot_y55=440
+disp_type55=NONE
+active_type55=QUEST_CLEAR
+active_id55=378
+disp_time55=2018-01-01T00:00:00
+open_time55=2018-01-01T00:00:00
+close_time55=2999-12-31T23:59:59
+
+# 5章イ・プルーリバス・ウナム
+spot_id56=10506
+sing_id56=5
+spot_name56=Dallas
+spot_area56=10506
+spot_x56=1043
+spot_y56=700
+disp_type56=NONE
+active_type56=QUEST_CLEAR
+active_id56=379
+disp_time56=2018-01-01T00:00:00
+open_time56=2018-01-01T00:00:00
+close_time56=2999-12-31T23:59:59
+
+# 5章イ・プルーリバス・ウナム
+spot_id57=10508
+sing_id57=5
+spot_name57=Washington
+spot_area57=10508
+spot_x57=1687
+spot_y57=430
+disp_type57=NONE
+active_type57=QUEST_CLEAR
+active_id57=382
+disp_time57=2018-01-01T00:00:00
+open_time57=2018-01-01T00:00:00
+close_time57=2999-12-31T23:59:59
+
+# 5章イ・プルーリバス・ウナム
+spot_id59=10513
+sing_id59=5
+spot_name59=Charlotte
+spot_area59=10513
+spot_x59=1564
+spot_y59=600
+disp_type59=NONE
+active_type59=QUEST_CLEAR
+active_id59=381
+disp_time59=2018-01-01T00:00:00
+open_time59=2018-01-01T00:00:00
+close_time59=2999-12-31T23:59:59
+
+# 6章ロスト・エルサレム
+spot_id60=10603
+sing_id60=6
+spot_name60=Great Temple
+spot_area60=10603
+spot_x60=552
+spot_y60=800
+disp_type60=NONE
+active_type60=QUEST_CLEAR
+active_id60=460
+disp_time60=2018-01-01T00:00:00
+open_time60=2018-01-01T00:00:00
+close_time60=2999-12-31T23:59:59
+
+# 6章ロスト・エルサレム
+spot_id61=10604
+sing_id61=6
+spot_name61=Dune of Dawn
+spot_area61=10604
+spot_x61=697
+spot_y61=574
+disp_type61=NONE
+active_type61=QUEST_CLEAR
+active_id61=457
+disp_time61=2018-01-01T00:00:00
+open_time61=2018-01-01T00:00:00
+close_time61=2999-12-31T23:59:59
+
+# 6章ロスト・エルサレム
+spot_id62=10621
+sing_id62=6
+spot_name62=Pilgrimage Road
+spot_area62=10621
+spot_x62=312
+spot_y62=478
+disp_type62=NONE
+active_type62=NONE
+active_id62=0
+disp_time62=2018-01-01T00:00:00
+open_time62=2018-01-01T00:00:00
+close_time62=2999-12-31T23:59:59
+
+# 6章ロスト・エルサレム
+spot_id63=10622
+sing_id63=6
+spot_name63=Holy Tomb Main Gate
+spot_area63=10622
+spot_x63=1440
+spot_y63=500
+disp_type63=NONE
+active_type63=QUEST_CLEAR
+active_id63=458
+disp_time63=2018-01-01T00:00:00
+open_time63=2018-01-01T00:00:00
+close_time63=2999-12-31T23:59:59
+
+# 6章ロスト・エルサレム
+spot_id64=10623
+sing_id64=6
+spot_name64=Hot Desert
+spot_area64=10623
+spot_x64=1083
+spot_y64=466
+disp_type64=NONE
+active_type64=QUEST_CLEAR
+active_id64=458
+disp_time64=2018-01-01T00:00:00
+open_time64=2018-01-01T00:00:00
+close_time64=2999-12-31T23:59:59
+
+# 7章バビロン
+spot_id65=10701
+sing_id65=7
+spot_name65=Babylon Outskirts
+spot_area65=10701
+spot_x65=550
+spot_y65=261
+disp_type65=NONE
+active_type65=NONE
+active_id65=0
+disp_time65=2018-01-01T00:00:00
+open_time65=2018-01-01T00:00:00
+close_time65=2999-12-31T23:59:59
+
+# 7章バビロン
+spot_id66=10702
+sing_id66=7
+spot_name66=Holy Grail City
+spot_area66=10702
+spot_x66=457
+spot_y66=512
+disp_type66=NONE
+active_type66=QUEST_CLEAR
+active_id66=609
+disp_time66=2018-01-01T00:00:00
+open_time66=2018-01-01T00:00:00
+close_time66=2999-12-31T23:59:59
+
+# 7章バビロン
+spot_id67=10703
+sing_id67=7
+spot_name67=Nightless Prosperity
+spot_area67=10703
+spot_x67=953
+spot_y67=285
+disp_type67=NONE
+active_type67=QUEST_CLEAR
+active_id67=610
+disp_time67=2018-01-01T00:00:00
+open_time67=2018-01-01T00:00:00
+close_time67=2999-12-31T23:59:59
+
+# 7章バビロン
+spot_id68=10704
+sing_id68=7
+spot_name68=Golden Hanging Garden
+spot_area68=10704
+spot_x68=1391
+spot_y68=560
+disp_type68=NONE
+active_type68=QUEST_CLEAR
+active_id68=611
+disp_time68=2018-01-01T00:00:00
+open_time68=2018-01-01T00:00:00
+close_time68=2999-12-31T23:59:59
+
+# 7章バビロン
+spot_id69=10705
+sing_id69=7
+spot_name69=Desire Tension
+spot_area69=10705
+spot_x69=985
+spot_y69=867
+disp_type69=NONE
+active_type69=QUEST_CLEAR
+active_id69=612
+disp_time69=2018-01-01T00:00:00
+open_time69=2018-01-01T00:00:00
+close_time69=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id71=10801
+sing_id71=8
+spot_name71=City of Greed
+spot_area71=10801
+spot_x71=636
+spot_y71=874
+disp_type71=NONE
+active_type71=NONE
+active_id71=0
+disp_time71=2018-01-01T00:00:00
+open_time71=2018-01-01T00:00:00
+close_time71=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id72=10802
+sing_id72=8
+spot_name72=City of Pride
+spot_area72=10802
+spot_x72=1318
+spot_y72=874
+disp_type72=NONE
+active_type72=QUEST_CLEAR
+active_id72=642
+disp_time72=2018-01-01T00:00:00
+open_time72=2018-01-01T00:00:00
+close_time72=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id73=10803
+sing_id73=8
+spot_name73=City of Sloth
+spot_area73=10803
+spot_x73=410
+spot_y73=597
+disp_type73=NONE
+active_type73=QUEST_CLEAR
+active_id73=643
+disp_time73=2018-01-01T00:00:00
+open_time73=2018-01-01T00:00:00
+close_time73=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id74=10804
+sing_id74=8
+spot_name74=City of Gluttony
+spot_area74=10804
+spot_x74=1556
+spot_y74=606
+disp_type74=NONE
+active_type74=QUEST_CLEAR
+active_id74=644
+disp_time74=2018-01-01T00:00:00
+open_time74=2018-01-01T00:00:00
+close_time74=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id75=10805
+sing_id75=8
+spot_name75=City of Envy
+spot_area75=10805
+spot_x75=569
+spot_y75=307
+disp_type75=NONE
+active_type75=QUEST_CLEAR
+active_id75=645
+disp_time75=2018-01-01T00:00:00
+open_time75=2018-01-01T00:00:00
+close_time75=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id76=10806
+sing_id76=8
+spot_name76=City of Wrath
+spot_area76=10806
+spot_x76=1370
+spot_y76=348
+disp_type76=NONE
+active_type76=QUEST_CLEAR
+active_id76=646
+disp_time76=2018-01-01T00:00:00
+open_time76=2018-01-01T00:00:00
+close_time76=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id77=10807
+sing_id77=8
+spot_name77=City of Lust
+spot_area77=10807
+spot_x77=984
+spot_y77=251
+disp_type77=NONE
+active_type77=QUEST_CLEAR
+active_id77=647
+disp_time77=2018-01-01T00:00:00
+open_time77=2018-01-01T00:00:00
+close_time77=2999-12-31T23:59:59
+
+# 終章リリムハーロット
+spot_id78=10808
+sing_id78=8
+spot_name78=The Table of Fallen Civilization
+spot_area78=10808
+spot_x78=980
+spot_y78=592
+disp_type78=NONE
+active_type78=QUEST_CLEAR
+active_id78=648
+disp_time78=2018-01-01T00:00:00
+open_time78=2018-01-01T00:00:00
+close_time78=2999-12-31T23:59:59
+
+# 空の境界
+spot_id80=800401
+sing_id80=8004
+spot_name80=Room １０１
+spot_area80=800401
+spot_x80=859
+spot_y80=1940
+disp_type80=QUEST_CLEAR
+disp_target_id80=140
+active_type80=QUEST_CLEAR
+active_id80=140
+disp_time80=2018-01-01T00:00:00
+open_time80=2018-01-01T00:00:00
+close_time80=2999-12-31T23:59:59
+
+# 空の境界
+spot_id81=800402
+sing_id81=8004
+spot_name81=Room １０２
+spot_area81=800401
+spot_x81=1151
+spot_y81=1940
+disp_type81=QUEST_CLEAR
+disp_target_id81=140
+active_type81=EVENT_MISSION_ACHIEVE
+active_id81=13
+disp_time81=2018-01-01T00:00:00
+open_time81=2018-01-01T00:00:00
+close_time81=2999-12-31T23:59:59
+active_spot_info81=Clear Mission No.13 to proceed:\n「Defeat 10 corpses」
+
+# 空の境界
+spot_id82=800403
+sing_id82=8004
+spot_name82=Room １０３
+spot_area82=800401
+spot_x82=1443
+spot_y82=1940
+disp_type82=QUEST_CLEAR
+disp_target_id82=140
+active_type82=EVENT_MISSION_ACHIEVE
+active_id82=17
+disp_time82=2018-01-01T00:00:00
+open_time82=2018-01-01T00:00:00
+close_time82=2999-12-31T23:59:59
+active_spot_info82=Clear Mission No.17 to proceed:\n「Defeat 10 apartment spirits」
+
+# 空の境界
+spot_id83=800404
+sing_id83=8004
+spot_name83=Room １０４
+spot_area83=800401
+spot_x83=1735
+spot_y83=1940
+disp_type83=QUEST_CLEAR
+disp_target_id83=140
+active_type83=QUEST_CLEAR
+active_id83=144
+disp_time83=2018-01-01T00:00:00
+open_time83=2018-01-01T00:00:00
+close_time83=2999-12-31T23:59:59
+active_spot_info83=Clear Room 102 to unlock
+
+# 空の境界
+spot_id84=800405
+sing_id84=8004
+spot_name84=Room ２０１
+spot_area84=800401
+spot_x84=871
+spot_y84=1700
+disp_type84=QUEST_CLEAR
+disp_target_id84=146
+active_type84=NONE
+active_id84=0
+disp_time84=2018-01-01T00:00:00
+open_time84=2018-01-01T00:00:00
+close_time84=2999-12-31T23:59:59
+
+# 空の境界
+spot_id85=800406
+sing_id85=8004
+spot_name85=Room ２０２
+spot_area85=800401
+spot_x85=1156
+spot_y85=1690
+disp_type85=QUEST_CLEAR
+disp_target_id85=146
+active_type85=EVENT_MISSION_ACHIEVE
+active_id85=21
+disp_time85=2018-01-01T00:00:00
+open_time85=2018-01-01T00:00:00
+close_time85=2999-12-31T23:59:59
+active_spot_info85=Clear Mission No.21 to proceed:\n「Defeat 10 Skeletons」
+
+# 空の境界
+spot_id86=800407
+sing_id86=8004
+spot_name86=Room ２０３
+spot_area86=800401
+spot_x86=1438
+spot_y86=1690
+disp_type86=QUEST_CLEAR
+disp_target_id86=146
+active_type86=EVENT_MISSION_ACHIEVE
+active_id86=25
+disp_time86=2018-01-01T00:00:00
+open_time86=2018-01-01T00:00:00
+close_time86=2999-12-31T23:59:59
+active_spot_info86=Clear Mission No.25 to proceed:\n「Defeat 10 Golems」
+
+# 空の境界
+spot_id87=800408
+sing_id87=8004
+spot_name87=Room ２０４
+spot_area87=800401
+spot_x87=1723
+spot_y87=1700
+disp_type87=QUEST_CLEAR
+disp_target_id87=146
+active_type87=QUEST_CLEAR
+active_id87=149
+disp_time87=2018-01-01T00:00:00
+open_time87=2018-01-01T00:00:00
+close_time87=2999-12-31T23:59:59
+active_spot_info87=Clear Room 203 to unlock
+
+# 空の境界
+spot_id88=800409
+sing_id88=8004
+spot_name88=Room ３０１
+spot_area88=800401
+spot_x88=891
+spot_y88=1475
+disp_type88=QUEST_CLEAR
+disp_target_id88=150
+active_type88=EVENT_MISSION_ACHIEVE
+active_id88=33
+disp_time88=2018-01-01T00:00:00
+open_time88=2018-01-01T00:00:00
+close_time88=2999-12-31T23:59:59
+active_spot_info88=Clear Mission No.33 to proceed:\n「Defeat 10 Servants with the 'Female' trait」
+
+# 空の境界
+spot_id89=800410
+sing_id89=8004
+spot_name89=Room ３０２
+spot_area89=800401
+spot_x89=1162
+spot_y89=1455
+disp_type89=QUEST_CLEAR
+disp_target_id89=150
+active_type89=EVENT_MISSION_ACHIEVE
+active_id89=29
+disp_time89=2018-01-01T00:00:00
+open_time89=2018-01-01T00:00:00
+close_time89=2999-12-31T23:59:59
+active_spot_info89=Clear Mission No.29 to proceed:\n「Defeat 10 Servants with the 'Male' trait」
+
+# 空の境界
+spot_id90=800411
+sing_id90=8004
+spot_name90=Room ３０３
+spot_area90=800401
+spot_x90=1432
+spot_y90=1455
+disp_type90=QUEST_CLEAR
+disp_target_id90=150
+active_type90=NONE
+active_id90=0
+disp_time90=2018-01-01T00:00:00
+open_time90=2018-01-01T00:00:00
+close_time90=2999-12-31T23:59:59
+
+# 空の境界
+spot_id91=800412
+sing_id91=8004
+spot_name91=Room ３０４
+spot_area91=800401
+spot_x91=1703
+spot_y91=1475
+disp_type91=QUEST_CLEAR
+disp_target_id91=150
+active_type91=EVENT_MISSION_ACHIEVE
+active_id91=37
+disp_time91=2018-01-01T00:00:00
+open_time91=2018-01-01T00:00:00
+close_time91=2999-12-31T23:59:59
+active_spot_info91=Clear Mission No.37 to proceed:\n「Defeat 10 Shadow Servants」
+
+# 空の境界
+spot_id92=800413
+sing_id92=8004
+spot_name92=Room ４０１
+spot_area92=800401
+spot_x92=903
+spot_y92=1250
+disp_type92=QUEST_CLEAR
+disp_target_id92=154
+active_type92=NONE
+active_id92=0
+disp_time92=2018-01-01T00:00:00
+open_time92=2018-01-01T00:00:00
+close_time92=2999-12-31T23:59:59
+
+# 空の境界
+spot_id93=800414
+sing_id93=8004
+spot_name93=Room ４０２
+spot_area93=800401
+spot_x93=1162
+spot_y93=1230
+disp_type93=QUEST_CLEAR
+disp_target_id93=154
+active_type93=EVENT_MISSION_ACHIEVE
+active_id93=72
+disp_time93=2018-01-01T00:00:00
+open_time93=2018-01-01T00:00:00
+close_time93=2999-12-31T23:59:59
+active_spot_info93=Clear Mission No.72 to proceed:\n「Clear every room on the first 3 floors」
+
+# 空の境界
+spot_id94=800415
+sing_id94=8004
+spot_name94=Room ４０３
+spot_area94=800401
+spot_x94=1432
+spot_y94=1230
+disp_type94=QUEST_CLEAR
+disp_target_id94=154
+active_type94=QUEST_CLEAR
+active_id94=155
+disp_time94=2018-01-01T00:00:00
+open_time94=2018-01-01T00:00:00
+close_time94=2999-12-31T23:59:59
+active_spot_info94=Unlocked by clearing Room 401
+
+# 空の境界
+spot_id95=800416
+sing_id95=8004
+spot_name95=Room ４０４
+spot_area95=800401
+spot_x95=1691
+spot_y95=1250
+disp_type95=QUEST_CLEAR
+disp_target_id95=154
+active_type95=EVENT_MISSION_ACHIEVE
+active_id95=42
+disp_time95=2018-01-01T00:00:00
+open_time95=2018-01-01T00:00:00
+close_time95=2999-12-31T23:59:59
+active_spot_info95=Clear Mission No.42 to proceed:\n「Defeat 5 Assassin class Servants」
+
+# 空の境界
+spot_id96=800417
+sing_id96=8004
+spot_name96=Room ５０１
+spot_area96=800401
+spot_x96=916
+spot_y96=1040
+disp_type96=QUEST_CLEAR
+disp_target_id96=158
+active_type96=NONE
+active_id96=0
+disp_time96=2018-01-01T00:00:00
+open_time96=2018-01-01T00:00:00
+close_time96=2999-12-31T23:59:59
+
+# 空の境界
+spot_id97=800418
+sing_id97=8004
+spot_name97=Room ５０２
+spot_area97=800401
+spot_x97=1167
+spot_y97=1010
+disp_type97=QUEST_CLEAR
+disp_target_id97=158
+active_type97=EVENT_MISSION_ACHIEVE
+active_id97=48
+disp_time97=2018-01-01T00:00:00
+open_time97=2018-01-01T00:00:00
+close_time97=2999-12-31T23:59:59
+active_spot_info97=Clear Mission No.48 to proceed:\n「Defeat 5 Servants with the 'Divinity' trait」
+
+# 空の境界
+spot_id98=800419
+sing_id98=8004
+spot_name98=Room ５０３
+spot_area98=800401
+spot_x98=1427
+spot_y98=1010
+disp_type98=QUEST_CLEAR
+disp_target_id98=158
+active_type98=EVENT_MISSION_ACHIEVE
+active_id98=24
+disp_time98=2018-01-01T00:00:00
+open_time98=2018-01-01T00:00:00
+close_time98=2999-12-31T23:59:59
+active_spot_info98=Clear Mission No.24 to proceed:\n「Defeat 60 Skeletons」
+
+# 空の境界
+spot_id99=800420
+sing_id99=8004
+spot_name99=Room ５０４
+spot_area99=800401
+spot_x99=1678
+spot_y99=1040
+disp_type99=QUEST_CLEAR
+disp_target_id99=158
+active_type99=EVENT_MISSION_ACHIEVE
+active_id99=20
+disp_time99=2018-01-01T00:00:00
+open_time99=2018-01-01T00:00:00
+close_time99=2999-12-31T23:59:59
+active_spot_info99=Clear Mission No.20 to proceed:\n「Defeat 60 Apartment Ghosts」
+
+# 空の境界
+spot_id100=800421
+sing_id100=8004
+spot_name100=Room ６０１
+spot_area100=800401
+spot_x100=930
+spot_y100=830
+disp_type100=QUEST_CLEAR
+disp_target_id100=163
+active_type100=EVENT_MISSION_ACHIEVE
+active_id100=56
+disp_time100=2018-01-01T00:00:00
+open_time100=2018-01-01T00:00:00
+close_time100=2999-12-31T23:59:59
+active_spot_info100=Clear Mission No.56 to proceed:\n「Defeat 10 Servants with the 'Chaotic' trait」
+
+# 空の境界
+spot_id101=800422
+sing_id101=8004
+spot_name101=Room ６０２
+spot_area101=800401
+spot_x101=1172
+spot_y101=800
+disp_type101=QUEST_CLEAR
+disp_target_id101=163
+active_type101=EVENT_MISSION_ACHIEVE
+active_id101=52
+disp_time101=2018-01-01T00:00:00
+open_time101=2018-01-01T00:00:00
+close_time101=2999-12-31T23:59:59
+active_spot_info101=Clear Mission No.52 to proceed:\n「Defeat 10 Servants with the 'Evil' trait」
+
+# 空の境界
+spot_id102=800423
+sing_id102=8004
+spot_name102=Room ６０３
+spot_area102=800401
+spot_x102=1422
+spot_y102=800
+disp_type102=QUEST_CLEAR
+disp_target_id102=163
+active_type102=NONE
+active_id102=0
+disp_time102=2018-01-01T00:00:00
+open_time102=2018-01-01T00:00:00
+close_time102=2999-12-31T23:59:59
+
+# 空の境界
+spot_id103=800424
+sing_id103=8004
+spot_name103=Room ６０４
+spot_area103=800401
+spot_x103=1664
+spot_y103=830
+disp_type103=QUEST_CLEAR
+disp_target_id103=163
+active_type103=EVENT_MISSION_ACHIEVE
+active_id103=12
+disp_time103=2018-01-01T00:00:00
+open_time103=2018-01-01T00:00:00
+close_time103=2999-12-31T23:59:59
+active_spot_info103=Clear Mission No.12 to proceed:\n「Explore '???'」
+
+# 空の境界
+spot_id104=800425
+sing_id104=8004
+spot_name104=Room ７０１
+spot_area104=800401
+spot_x104=943
+spot_y104=630
+disp_type104=QUEST_CLEAR
+disp_target_id104=167
+active_type104=EVENT_MISSION_ACHIEVE
+active_id104=28
+disp_time104=2018-01-01T00:00:00
+open_time104=2018-01-01T00:00:00
+close_time104=2999-12-31T23:59:59
+active_spot_info104=Clear Mission No.28 to proceed:\n「Defeat 60 Golems」
+
+# 空の境界
+spot_id105=800426
+sing_id105=8004
+spot_name105=Room ７０２
+spot_area105=800401
+spot_x105=1176
+spot_y105=600
+disp_type105=QUEST_CLEAR
+disp_target_id105=167
+active_type105=EVENT_MISSION_ACHIEVE
+active_id105=16
+disp_time105=2018-01-01T00:00:00
+open_time105=2018-01-01T00:00:00
+close_time105=2999-12-31T23:59:59
+active_spot_info105=Clear Mission No.16 to proceed:\n「Defeat 60 Corpses」
+
+# 空の境界
+spot_id106=800427
+sing_id106=8004
+spot_name106=Room ７０３
+spot_area106=800401
+spot_x106=1418
+spot_y106=600
+disp_type106=QUEST_CLEAR
+disp_target_id106=167
+active_type106=EVENT_MISSION_ACHIEVE
+active_id106=75
+disp_time106=2018-01-01T00:00:00
+open_time106=2018-01-01T00:00:00
+close_time106=2999-12-31T23:59:59
+active_spot_info106=Clear Mission No.75 to proceed:\n「Clear all rooms on the first 6 floors」
+
+# 空の境界
+spot_id107=800428
+sing_id107=8004
+spot_name107=Room ７０４
+spot_area107=800401
+spot_x107=1651
+spot_y107=630
+disp_type107=QUEST_CLEAR
+disp_target_id107=167
+active_type107=NONE
+active_id107=0
+disp_time107=2018-01-01T00:00:00
+open_time107=2018-01-01T00:00:00
+close_time107=2999-12-31T23:59:59
+
+# 空の境界
+spot_id108=800429
+sing_id108=8004
+spot_name108=Room ８０１
+spot_area108=800401
+spot_x108=955
+spot_y108=430
+disp_type108=QUEST_CLEAR
+disp_target_id108=171
+active_type108=NONE
+active_id108=0
+disp_time108=2018-01-01T00:00:00
+open_time108=2018-01-01T00:00:00
+close_time108=2999-12-31T23:59:59
+
+# 空の境界
+spot_id109=800430
+sing_id109=8004
+spot_name109=Room ８０２
+spot_area109=800401
+spot_x109=1179
+spot_y109=400
+disp_type109=QUEST_CLEAR
+disp_target_id109=171
+active_type109=EVENT_MISSION_ACHIEVE
+active_id109=40
+disp_time109=2018-01-01T00:00:00
+open_time109=2018-01-01T00:00:00
+close_time109=2999-12-31T23:59:59
+active_spot_info109=Clear Mission No.40 to proceed:\n「Defeat 60 Shadow Servants」
+
+# 空の境界
+spot_id110=800431
+sing_id110=8004
+spot_name110=Room ８０３
+spot_area110=800401
+spot_x110=1415
+spot_y110=400
+disp_type110=QUEST_CLEAR
+disp_target_id110=171
+active_type110=EVENT_MISSION_ACHIEVE
+active_id110=69
+disp_time110=2018-01-01T00:00:00
+open_time110=2018-01-01T00:00:00
+close_time110=2999-12-31T23:59:59
+active_spot_info110=Room Clear Mission No.69 to proceed:\n「Clear room 2 on each floor」
+
+# 空の境界
+spot_id111=800432
+sing_id111=8004
+spot_name111=Room ８０４
+spot_area111=800401
+spot_x111=1639
+spot_y111=430
+disp_type111=QUEST_CLEAR
+disp_target_id111=171
+active_type111=EVENT_MISSION_ACHIEVE
+active_id111=77
+disp_time111=2018-01-01T00:00:00
+open_time111=2018-01-01T00:00:00
+close_time111=2999-12-31T23:59:59
+active_spot_info111=Room Clear Mission No.77 to proceed:\n「Clear every room except Room 804」
+
+# 空の境界
+spot_id112=800433
+sing_id112=8004
+spot_name112=Apartment Entrance
+spot_area112=800402
+spot_x112=920
+spot_y112=2505
+disp_type112=NONE
+disp_target_id112=0
+active_type112=NONE
+active_id112=0
+disp_time112=2018-01-01T00:00:00
+open_time112=2018-01-01T00:00:00
+close_time112=2999-12-31T23:59:59
+
+# 空の境界
+spot_id113=800434
+sing_id113=8004
+spot_name113=Parking Lot
+spot_area113=800403
+spot_x113=985
+spot_y113=2860
+disp_type113=EVENT_MISSION_ACHIEVE
+disp_target_id113=87
+active_type113=EVENT_MISSION_ACHIEVE
+active_id113=87
+disp_time113=2018-01-01T00:00:00
+open_time113=2018-01-01T00:00:00
+close_time113=2999-12-31T23:59:59
+active_spot_info113=Clear Mission No.87 to proceed:\n「Complete 60 missions」
+
+# 空の境界
+spot_id114=800435
+sing_id114=8004
+spot_name114=Old Incinerator
+spot_area114=800404
+spot_x114=220
+spot_y114=2370
+disp_type114=EVENT_MISSION_ACHIEVE
+disp_target_id114=86
+active_type114=EVENT_MISSION_ACHIEVE
+active_id114=86
+disp_time114=2018-01-01T00:00:00
+open_time114=2018-01-01T00:00:00
+close_time114=2999-12-31T23:59:59
+active_spot_info114=Clear Mission No.86 to proceed:\n「Complete 30 missions」
+
+# 空の境界
+spot_id115=800436
+sing_id115=8004
+spot_name115=Rooftop
+spot_area115=800405
+spot_x115=1297
+spot_y115=210
+disp_type115=EVENT_MISSION_ACHIEVE
+disp_target_id115=98
+active_type115=EVENT_MISSION_ACHIEVE
+active_id115=98
+disp_time115=2018-01-01T00:00:00
+open_time115=2018-01-01T00:00:00
+close_time115=2999-12-31T23:59:59
+active_spot_info115=Clear Mission No.98 to proceed:\n「Obtain the Hidden Key」
+
+# 復刻：空の境界
+spot_id117=801001
+sing_id117=8010
+spot_name117=Room １０１
+spot_area117=801001
+spot_x117=859
+spot_y117=1940
+disp_type117=QUEST_CLEAR
+disp_target_id117=236
+active_type117=QUEST_CLEAR
+active_id117=236
+disp_time117=2018-01-01T00:00:00
+open_time117=2018-01-01T00:00:00
+close_time117=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id118=801002
+sing_id118=8010
+spot_name118=Room １０２
+spot_area118=801001
+spot_x118=1151
+spot_y118=1940
+disp_type118=QUEST_CLEAR
+disp_target_id118=236
+active_type118=EVENT_MISSION_ACHIEVE
+active_id118=13
+disp_time118=2018-01-01T00:00:00
+open_time118=2018-01-01T00:00:00
+close_time118=2999-12-31T23:59:59
+active_spot_info118=Clear Mission No.13 to proceed:\n「Defeat 5 corpses」
+
+# 復刻：空の境界
+spot_id119=801003
+sing_id119=8010
+spot_name119=Room １０３
+spot_area119=801001
+spot_x119=1443
+spot_y119=1940
+disp_type119=QUEST_CLEAR
+disp_target_id119=236
+active_type119=EVENT_MISSION_ACHIEVE
+active_id119=17
+disp_time119=2018-01-01T00:00:00
+open_time119=2018-01-01T00:00:00
+close_time119=2999-12-31T23:59:59
+active_spot_info119=Clear Mission No.17 to proceed:\n「Defeat 10 Apartment Spirits」
+
+# 復刻：空の境界
+spot_id120=801004
+sing_id120=8010
+spot_name120=Room １０４
+spot_area120=801001
+spot_x120=1735
+spot_y120=1940
+disp_type120=QUEST_CLEAR
+disp_target_id120=236
+active_type120=QUEST_CLEAR
+active_id120=240
+disp_time120=2018-01-01T00:00:00
+open_time120=2018-01-01T00:00:00
+close_time120=2999-12-31T23:59:59
+active_spot_info120=Clear Room 102
+
+# 復刻：空の境界
+spot_id121=801005
+sing_id121=8010
+spot_name121=Room ２０１
+spot_area121=801001
+spot_x121=871
+spot_y121=1700
+disp_type121=QUEST_CLEAR
+disp_target_id121=242
+active_type121=NONE
+active_id121=0
+disp_time121=2018-01-01T00:00:00
+open_time121=2018-01-01T00:00:00
+close_time121=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id122=801006
+sing_id122=8010
+spot_name122=Room ２０２
+spot_area122=801001
+spot_x122=1156
+spot_y122=1690
+disp_type122=QUEST_CLEAR
+disp_target_id122=242
+active_type122=EVENT_MISSION_ACHIEVE
+active_id122=21
+disp_time122=2018-01-01T00:00:00
+open_time122=2018-01-01T00:00:00
+close_time122=2999-12-31T23:59:59
+active_spot_info122=Clear Mission No.21 to proceed:\n「Defeat 5 skeletons」
+
+# 復刻：空の境界
+spot_id123=801007
+sing_id123=8010
+spot_name123=Room ２０３
+spot_area123=801001
+spot_x123=1438
+spot_y123=1690
+disp_type123=QUEST_CLEAR
+disp_target_id123=242
+active_type123=EVENT_MISSION_ACHIEVE
+active_id123=25
+disp_time123=2018-01-01T00:00:00
+open_time123=2018-01-01T00:00:00
+close_time123=2999-12-31T23:59:59
+active_spot_info123=Clear Mission No.25 to proceed:\n「Defeat 5 Golems」
+
+# 復刻：空の境界
+spot_id124=801008
+sing_id124=8010
+spot_name124=Room ２０４
+spot_area124=801001
+spot_x124=1723
+spot_y124=1700
+disp_type124=QUEST_CLEAR
+disp_target_id124=242
+active_type124=QUEST_CLEAR
+active_id124=245
+disp_time124=2018-01-01T00:00:00
+open_time124=2018-01-01T00:00:00
+close_time124=2999-12-31T23:59:59
+active_spot_info124=Clear Room 203
+
+# 復刻：空の境界
+spot_id125=801009
+sing_id125=8010
+spot_name125=Room ３０１
+spot_area125=801001
+spot_x125=891
+spot_y125=1475
+disp_type125=QUEST_CLEAR
+disp_target_id125=246
+active_type125=EVENT_MISSION_ACHIEVE
+active_id125=31
+disp_time125=2018-01-01T00:00:00
+open_time125=2018-01-01T00:00:00
+close_time125=2999-12-31T23:59:59
+active_spot_info125=Clear Mission No.31 to proceed:\n「Defeat 5 Servants with the 'Female' trait」
+
+# 復刻：空の境界
+spot_id126=801010
+sing_id126=8010
+spot_name126=Room ３０２
+spot_area126=801001
+spot_x126=1162
+spot_y126=1455
+disp_type126=QUEST_CLEAR
+disp_target_id126=246
+active_type126=EVENT_MISSION_ACHIEVE
+active_id126=29
+disp_time126=2018-01-01T00:00:00
+open_time126=2018-01-01T00:00:00
+close_time126=2999-12-31T23:59:59
+active_spot_info126=Clear Mission No.29 to proceed:\n「Defeat 5 Servants with the 'Male' trait」
+
+# 復刻：空の境界
+spot_id127=801011
+sing_id127=8010
+spot_name127=Room ３０３
+spot_area127=801001
+spot_x127=1432
+spot_y127=1455
+disp_type127=QUEST_CLEAR
+disp_target_id127=246
+active_type127=NONE
+active_id127=0
+disp_time127=2018-01-01T00:00:00
+open_time127=2018-01-01T00:00:00
+close_time127=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id128=801012
+sing_id128=8010
+spot_name128=Room ３０４
+spot_area128=801001
+spot_x128=1703
+spot_y128=1475
+disp_type128=QUEST_CLEAR
+disp_target_id128=246
+active_type128=EVENT_MISSION_ACHIEVE
+active_id128=33
+disp_time128=2018-01-01T00:00:00
+open_time128=2018-01-01T00:00:00
+close_time128=2999-12-31T23:59:59
+active_spot_info128=Clear Mission No.33 to proceed:\n「Defeat 10 Shadow Servants」
+
+# 復刻：空の境界
+spot_id129=801013
+sing_id129=8010
+spot_name129=Room ４０１
+spot_area129=801001
+spot_x129=903
+spot_y129=1250
+disp_type129=QUEST_CLEAR
+disp_target_id129=250
+active_type129=NONE
+active_id129=0
+disp_time129=2018-01-01T00:00:00
+open_time129=2018-01-01T00:00:00
+close_time129=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id130=801014
+sing_id130=8010
+spot_name130=Room ４０２
+spot_area130=801001
+spot_x130=1162
+spot_y130=1230
+disp_type130=QUEST_CLEAR
+disp_target_id130=250
+active_type130=EVENT_MISSION_ACHIEVE
+active_id130=43
+disp_time130=2018-01-01T00:00:00
+open_time130=2018-01-01T00:00:00
+close_time130=2999-12-31T23:59:59
+active_spot_info130=Clear Mission No.43 to proceed:\n「Clear every room on the first 3 floors」
+
+# 復刻：空の境界
+spot_id131=801015
+sing_id131=8010
+spot_name131=Room ４０３
+spot_area131=801001
+spot_x131=1432
+spot_y131=1230
+disp_type131=QUEST_CLEAR
+disp_target_id131=250
+active_type131=QUEST_CLEAR
+active_id131=251
+disp_time131=2018-01-01T00:00:00
+open_time131=2018-01-01T00:00:00
+close_time131=2999-12-31T23:59:59
+active_spot_info131=Room 「四階　一」クリアで開放
+
+# 復刻：空の境界
+spot_id132=801016
+sing_id132=8010
+spot_name132=Room ４０４
+spot_area132=801001
+spot_x132=1691
+spot_y132=1250
+disp_type132=QUEST_CLEAR
+disp_target_id132=250
+active_type132=EVENT_MISSION_ACHIEVE
+active_id132=38
+disp_time132=2018-01-01T00:00:00
+open_time132=2018-01-01T00:00:00
+close_time132=2999-12-31T23:59:59
+active_spot_info132=Clear Mission No.38 to proceed:\n「Defeat 5 Berserker class Servants」
+
+# 復刻：空の境界
+spot_id133=801017
+sing_id133=8010
+spot_name133=Room ５０１
+spot_area133=801001
+spot_x133=916
+spot_y133=1040
+disp_type133=QUEST_CLEAR
+disp_target_id133=254
+active_type133=NONE
+active_id133=0
+disp_time133=2018-01-01T00:00:00
+open_time133=2018-01-01T00:00:00
+close_time133=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id134=801018
+sing_id134=8010
+spot_name134=Room ５０２
+spot_area134=801001
+spot_x134=1167
+spot_y134=1010
+disp_type134=QUEST_CLEAR
+disp_target_id134=254
+active_type134=EVENT_MISSION_ACHIEVE
+active_id134=37
+disp_time134=2018-01-01T00:00:00
+open_time134=2018-01-01T00:00:00
+close_time134=2999-12-31T23:59:59
+active_spot_info134=Clear Mission No.37 to proceed:\n「Defeat 5 Assassin class servants」
+
+# 復刻：空の境界
+spot_id135=801019
+sing_id135=8010
+spot_name135=Room ５０３
+spot_area135=801001
+spot_x135=1427
+spot_y135=1010
+disp_type135=QUEST_CLEAR
+disp_target_id135=254
+active_type135=EVENT_MISSION_ACHIEVE
+active_id135=24
+disp_time135=2018-01-01T00:00:00
+open_time135=2018-01-01T00:00:00
+close_time135=2999-12-31T23:59:59
+active_spot_info135=Clear Mission No.24 to proceed:\n「Defeat 40 Skeletons」
+
+# 復刻：空の境界
+spot_id136=801020
+sing_id136=8010
+spot_name136=Room ５０４
+spot_area136=801001
+spot_x136=1678
+spot_y136=1040
+disp_type136=QUEST_CLEAR
+disp_target_id136=254
+active_type136=EVENT_MISSION_ACHIEVE
+active_id136=20
+disp_time136=2018-01-01T00:00:00
+open_time136=2018-01-01T00:00:00
+close_time136=2999-12-31T23:59:59
+active_spot_info136=Clear Mission No.20 to proceed:\n「Defeat 40 Apartment Ghosts」
+
+# 復刻：空の境界
+spot_id137=801021
+sing_id137=8010
+spot_name137=Room ６０１
+spot_area137=801001
+spot_x137=930
+spot_y137=830
+disp_type137=QUEST_CLEAR
+disp_target_id137=259
+active_type137=EVENT_MISSION_ACHIEVE
+active_id137=32
+disp_time137=2018-01-01T00:00:00
+open_time137=2018-01-01T00:00:00
+close_time137=2999-12-31T23:59:59
+active_spot_info137=Clear Mission No.32 to proceed:\n「Defeat 10 Servants with the 'Female' trait」
+
+# 復刻：空の境界
+spot_id138=801022
+sing_id138=8010
+spot_name138=Room ６０２
+spot_area138=801001
+spot_x138=1172
+spot_y138=800
+disp_type138=QUEST_CLEAR
+disp_target_id138=259
+active_type138=EVENT_MISSION_ACHIEVE
+active_id138=30
+disp_time138=2018-01-01T00:00:00
+open_time138=2018-01-01T00:00:00
+close_time138=2999-12-31T23:59:59
+active_spot_info138=Clear Mission No.30 to proceed:\n「Defeat 10 Servants with the 'Male' trait」
+
+# 復刻：空の境界
+spot_id139=801023
+sing_id139=8010
+spot_name139=Room ６０３
+spot_area139=801001
+spot_x139=1422
+spot_y139=800
+disp_type139=QUEST_CLEAR
+disp_target_id139=259
+active_type139=NONE
+active_id139=0
+disp_time139=2018-01-01T00:00:00
+open_time139=2018-01-01T00:00:00
+close_time139=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id140=801024
+sing_id140=8010
+spot_name140=Room ６０４
+spot_area140=801001
+spot_x140=1664
+spot_y140=830
+disp_type140=QUEST_CLEAR
+disp_target_id140=259
+active_type140=EVENT_MISSION_ACHIEVE
+active_id140=12
+disp_time140=2018-01-01T00:00:00
+open_time140=2018-01-01T00:00:00
+close_time140=2999-12-31T23:59:59
+active_spot_info140=Clear Mission No.12 to proceed:\n「Explore the Parking Lot」
+
+# 復刻：空の境界
+spot_id141=801025
+sing_id141=8010
+spot_name141=Room ７０１
+spot_area141=801001
+spot_x141=943
+spot_y141=630
+disp_type141=QUEST_CLEAR
+disp_target_id141=263
+active_type141=EVENT_MISSION_ACHIEVE
+active_id141=28
+disp_time141=2018-01-01T00:00:00
+open_time141=2018-01-01T00:00:00
+close_time141=2999-12-31T23:59:59
+active_spot_info141=Clear Mission No.28 to proceed:\n「Defeat 40 Golems」
+
+# 復刻：空の境界
+spot_id142=801026
+sing_id142=8010
+spot_name142=Room ７０２
+spot_area142=801001
+spot_x142=1176
+spot_y142=600
+disp_type142=QUEST_CLEAR
+disp_target_id142=263
+active_type142=EVENT_MISSION_ACHIEVE
+active_id142=16
+disp_time142=2018-01-01T00:00:00
+open_time142=2018-01-01T00:00:00
+close_time142=2999-12-31T23:59:59
+active_spot_info142=Clear Mission No.16 to proceed:\n「Defeat 40 Corpses」
+
+# 復刻：空の境界
+spot_id143=801027
+sing_id143=8010
+spot_name143=Room ７０３
+spot_area143=801001
+spot_x143=1418
+spot_y143=600
+disp_type143=QUEST_CLEAR
+disp_target_id143=263
+active_type143=EVENT_MISSION_ACHIEVE
+active_id143=44
+disp_time143=2018-01-01T00:00:00
+open_time143=2018-01-01T00:00:00
+close_time143=2999-12-31T23:59:59
+active_spot_info143=Clear Mission No.44 to proceed:\n「Clear every room on the first 6 floors」
+
+# 復刻：空の境界
+spot_id144=801028
+sing_id144=8010
+spot_name144=Room ７０４
+spot_area144=801001
+spot_x144=1651
+spot_y144=630
+disp_type144=QUEST_CLEAR
+disp_target_id144=263
+active_type144=NONE
+active_id144=0
+disp_time144=2018-01-01T00:00:00
+open_time144=2018-01-01T00:00:00
+close_time144=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id145=801029
+sing_id145=8010
+spot_name145=Room ８０１
+spot_area145=801001
+spot_x145=955
+spot_y145=430
+disp_type145=QUEST_CLEAR
+disp_target_id145=267
+active_type145=NONE
+active_id145=0
+disp_time145=2018-01-01T00:00:00
+open_time145=2018-01-01T00:00:00
+close_time145=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id146=801030
+sing_id146=8010
+spot_name146=Room ８０２
+spot_area146=801001
+spot_x146=1179
+spot_y146=400
+disp_type146=QUEST_CLEAR
+disp_target_id146=267
+active_type146=EVENT_MISSION_ACHIEVE
+active_id146=36
+disp_time146=2018-01-01T00:00:00
+open_time146=2018-01-01T00:00:00
+close_time146=2999-12-31T23:59:59
+active_spot_info146=Clear Mission No.36 to proceed:\n「Defeat 40 Shadow Servants」
+
+# 復刻：空の境界
+spot_id147=801031
+sing_id147=8010
+spot_name147=Room ８０３
+spot_area147=801001
+spot_x147=1415
+spot_y147=400
+disp_type147=QUEST_CLEAR
+disp_target_id147=267
+active_type147=EVENT_MISSION_ACHIEVE
+active_id147=40
+disp_time147=2018-01-01T00:00:00
+open_time147=2018-01-01T00:00:00
+close_time147=2999-12-31T23:59:59
+active_spot_info147=Room Clear Mission No.40 to proceed:\n「Clear room 2 on each floor」
+
+# 復刻：空の境界
+spot_id148=801032
+sing_id148=8010
+spot_name148=Room ８０４
+spot_area148=801001
+spot_x148=1639
+spot_y148=430
+disp_type148=QUEST_CLEAR
+disp_target_id148=267
+active_type148=EVENT_MISSION_ACHIEVE
+active_id148=45
+disp_time148=2018-01-01T00:00:00
+open_time148=2018-01-01T00:00:00
+close_time148=2999-12-31T23:59:59
+active_spot_info148=Room Clear Mission No.45 to proceed:\n「Clear every room except Room 804」
+
+# 復刻：空の境界
+spot_id149=801033
+sing_id149=8010
+spot_name149=Apartment Entrance
+spot_area149=801002
+spot_x149=920
+spot_y149=2505
+disp_type149=NONE
+disp_target_id149=0
+active_type149=NONE
+active_id149=0
+disp_time149=2018-01-01T00:00:00
+open_time149=2018-01-01T00:00:00
+close_time149=2999-12-31T23:59:59
+
+# 復刻：空の境界
+spot_id150=801034
+sing_id150=8010
+spot_name150=Parking Lot
+spot_area150=801003
+spot_x150=985
+spot_y150=2860
+disp_type150=EVENT_MISSION_ACHIEVE
+disp_target_id150=47
+active_type150=EVENT_MISSION_ACHIEVE
+active_id150=47
+disp_time150=2018-01-01T00:00:00
+open_time150=2018-01-01T00:00:00
+close_time150=2999-12-31T23:59:59
+active_spot_info150=Clear Mission No.47 to proceed:\n「Clear 30 missions」
+
+# 復刻：空の境界
+spot_id151=801035
+sing_id151=8010
+spot_name151=Old Incinerator
+spot_area151=801004
+spot_x151=220
+spot_y151=2370
+disp_type151=EVENT_MISSION_ACHIEVE
+disp_target_id151=46
+active_type151=EVENT_MISSION_ACHIEVE
+active_id151=46
+disp_time151=2018-01-01T00:00:00
+open_time151=2018-01-01T00:00:00
+close_time151=2999-12-31T23:59:59
+active_spot_info151=Clear Mission No.46 to proceed:\n「Clear 20 missions」
+
+# 復刻：空の境界
+spot_id152=801036
+sing_id152=8010
+spot_name152=Rooftop
+spot_area152=801005
+spot_x152=1297
+spot_y152=210
+disp_type152=EVENT_MISSION_ACHIEVE
+disp_target_id152=58
+active_type152=EVENT_MISSION_ACHIEVE
+active_id152=58
+disp_time152=2018-01-01T00:00:00
+open_time152=2018-01-01T00:00:00
+close_time152=2999-12-31T23:59:59
+active_spot_info152=Clear Mission No.58 to proceed:\n「Obtain the hidden key」
+
+# プリズマコーズ
+spot_id154=801201
+sing_id154=8012
+spot_name154=Neutral Area
+spot_area154=801201
+spot_x154=1130
+spot_y154=717
+disp_type154=NONE
+disp_target_id154=0
+active_type154=NONE
+active_id154=0
+disp_time154=2018-01-01T00:00:00
+open_time154=2018-01-01T00:00:00
+close_time154=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id155=801202
+sing_id155=8012
+spot_name155=Candy Castle
+spot_area155=801202
+spot_x155=1812
+spot_y155=1144
+disp_type155=QUEST_CLEAR
+disp_target_id155=288
+active_type155=QUEST_CLEAR
+active_id155=288
+disp_time155=2018-01-01T00:00:00
+open_time155=2018-01-01T00:00:00
+close_time155=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id156=801203
+sing_id156=8012
+spot_name156=Candy House
+spot_area156=801203
+spot_x156=1587
+spot_y156=1024
+disp_type156=QUEST_CLEAR
+disp_target_id156=287
+active_type156=QUEST_CLEAR
+active_id156=287
+disp_time156=2018-01-01T00:00:00
+open_time156=2018-01-01T00:00:00
+close_time156=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id157=801204
+sing_id157=8012
+spot_name157=Ocean Castle
+spot_area157=801204
+spot_x157=429
+spot_y157=1171
+disp_type157=QUEST_CLEAR
+disp_target_id157=294
+active_type157=QUEST_CLEAR
+active_id157=294
+disp_time157=2018-01-01T00:00:00
+open_time157=2018-01-01T00:00:00
+close_time157=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id158=801205
+sing_id158=8012
+spot_name158=Quiet Ocean
+spot_area158=801205
+spot_x158=796
+spot_y158=1010
+disp_type158=QUEST_CLEAR
+disp_target_id158=293
+active_type158=QUEST_CLEAR
+active_id158=293
+disp_time158=2018-01-01T00:00:00
+open_time158=2018-01-01T00:00:00
+close_time158=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id159=801206
+sing_id159=8012
+spot_name159=Great Library
+spot_area159=801206
+spot_x159=502
+spot_y159=465
+disp_type159=QUEST_CLEAR
+disp_target_id159=300
+active_type159=QUEST_CLEAR
+active_id159=300
+disp_time159=2018-01-01T00:00:00
+open_time159=2018-01-01T00:00:00
+close_time159=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id160=801207
+sing_id160=8012
+spot_name160=Main Street
+spot_area160=801207
+spot_x160=831
+spot_y160=597
+disp_type160=QUEST_CLEAR
+disp_target_id160=299
+active_type160=QUEST_CLEAR
+active_id160=299
+disp_time160=2018-01-01T00:00:00
+open_time160=2018-01-01T00:00:00
+close_time160=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id161=801208
+sing_id161=8012
+spot_name161=Deep Snow Castle
+spot_area161=801208
+spot_x161=1831
+spot_y161=466
+disp_type161=QUEST_CLEAR
+disp_target_id161=305
+active_type161=QUEST_CLEAR
+active_id161=305
+disp_time161=2018-01-01T00:00:00
+open_time161=2018-01-01T00:00:00
+close_time161=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id162=801209
+sing_id162=8012
+spot_name162=Crystal Palace
+spot_area162=801209
+spot_x162=1126
+spot_y162=290
+disp_type162=QUEST_CLEAR
+disp_target_id162=311
+active_type162=QUEST_CLEAR
+active_id162=311
+disp_time162=2018-01-01T00:00:00
+open_time162=2018-01-01T00:00:00
+close_time162=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id163=801210
+sing_id163=8012
+spot_name163=Candy Town
+spot_area163=801210
+spot_x163=1618
+spot_y163=1233
+disp_type163=QUEST_CLEAR
+disp_target_id163=289
+active_type163=QUEST_CLEAR
+active_id163=289
+disp_time163=2018-01-01T00:00:00
+open_time163=2018-01-01T00:00:00
+close_time163=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id164=801211
+sing_id164=8012
+spot_name164=Calm Sea
+spot_area164=801211
+spot_x164=416
+spot_y164=949
+disp_type164=EVENT_MISSION_ACHIEVE
+disp_target_id164=14
+active_type164=EVENT_MISSION_ACHIEVE
+active_id164=14
+disp_time164=2018-01-01T00:00:00
+open_time164=2018-01-01T00:00:00
+close_time164=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id165=801212
+sing_id165=8012
+spot_name165=Back Alley
+spot_area165=801212
+spot_x165=333
+spot_y165=573
+disp_type165=EVENT_MISSION_ACHIEVE
+disp_target_id165=53
+active_type165=EVENT_MISSION_ACHIEVE
+active_id165=53
+disp_time165=2018-01-01T00:00:00
+open_time165=2018-01-01T00:00:00
+close_time165=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id166=801213
+sing_id166=8012
+spot_name166=Thin Ice River
+spot_area166=801213
+spot_x166=1682
+spot_y166=349
+disp_type166=QUEST_CLEAR
+disp_target_id166=307
+active_type166=QUEST_CLEAR
+active_id166=307
+disp_time166=2018-01-01T00:00:00
+open_time166=2018-01-01T00:00:00
+close_time166=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id167=801214
+sing_id167=8012
+spot_name167=Lake of Reflection
+spot_area167=801214
+spot_x167=1297
+spot_y167=345
+disp_type167=QUEST_CLEAR
+disp_target_id167=312
+active_type167=QUEST_CLEAR
+active_id167=312
+disp_time167=2018-01-01T00:00:00
+open_time167=2018-01-01T00:00:00
+close_time167=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id169=801216
+sing_id169=8012
+spot_name169=Candy Forest
+spot_area169=801210
+spot_x169=2008
+spot_y169=1231
+disp_type169=EVENT_MISSION_ACHIEVE
+disp_target_id169=1
+active_type169=EVENT_MISSION_ACHIEVE
+active_id169=1
+disp_time169=2018-01-01T00:00:00
+open_time169=2018-01-01T00:00:00
+close_time169=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id170=801217
+sing_id170=8012
+spot_name170=Stormy Ocean
+spot_area170=801211
+spot_x170=685
+spot_y170=1234
+disp_type170=QUEST_CLEAR
+disp_target_id170=294
+active_type170=QUEST_CLEAR
+active_id170=294
+disp_time170=2018-01-01T00:00:00
+open_time170=2018-01-01T00:00:00
+close_time170=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id171=801218
+sing_id171=8012
+spot_name171=Zigzag Street
+spot_area171=801212
+spot_x171=333
+spot_y171=332
+disp_type171=EVENT_MISSION_ACHIEVE
+disp_target_id171=18
+active_type171=EVENT_MISSION_ACHIEVE
+active_id171=18
+disp_time171=2018-01-01T00:00:00
+open_time171=2018-01-01T00:00:00
+close_time171=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id172=801219
+sing_id172=8012
+spot_name172=Powder Snow Hill
+spot_area172=801213
+spot_x172=2012
+spot_y172=489
+disp_type172=EVENT_MISSION_ACHIEVE
+disp_target_id172=23
+active_type172=EVENT_MISSION_ACHIEVE
+active_id172=23
+disp_time172=2018-01-01T00:00:00
+open_time172=2018-01-01T00:00:00
+close_time172=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id173=801220
+sing_id173=8012
+spot_name173=Valley of Lingering Snow
+spot_area173=801213
+spot_x173=1894
+spot_y173=664
+disp_type173=QUEST_CLEAR
+disp_target_id173=306
+active_type173=QUEST_CLEAR
+active_id173=306
+disp_time173=2018-01-01T00:00:00
+open_time173=2018-01-01T00:00:00
+close_time173=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id174=801221
+sing_id174=8012
+spot_name174=Glimmering Giant Tree
+spot_area174=801214
+spot_x174=957
+spot_y174=237
+disp_type174=EVENT_MISSION_ACHIEVE
+disp_target_id174=39
+active_type174=EVENT_MISSION_ACHIEVE
+active_id174=39
+disp_time174=2018-01-01T00:00:00
+open_time174=2018-01-01T00:00:00
+close_time174=2999-12-31T23:59:59
+
+# プリズマコーズ
+spot_id175=801222
+sing_id175=8012
+spot_name175=Field of Stars
+spot_area175=801214
+spot_x175=976
+spot_y175=385
+disp_type175=EVENT_MISSION_ACHIEVE
+disp_target_id175=21
+active_type175=EVENT_MISSION_ACHIEVE
+active_id175=21
+disp_time175=2018-01-01T00:00:00
+open_time175=2018-01-01T00:00:00
+close_time175=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id177=802101
+sing_id177=8021
+spot_name177=Neutral Area
+spot_area177=802101
+spot_x177=1130
+spot_y177=717
+disp_type177=NONE
+disp_target_id177=0
+active_type177=NONE
+active_id177=0
+disp_time177=2018-01-01T00:00:00
+open_time177=2018-01-01T00:00:00
+close_time177=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id178=802102
+sing_id178=8021
+spot_name178=Candy Castle
+spot_area178=802102
+spot_x178=1812
+spot_y178=1144
+disp_type178=QUEST_CLEAR
+disp_target_id178=467
+active_type178=QUEST_CLEAR
+active_id178=467
+disp_time178=2018-01-01T00:00:00
+open_time178=2018-01-01T00:00:00
+close_time178=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id179=802103
+sing_id179=8021
+spot_name179=Candy House
+spot_area179=802103
+spot_x179=1587
+spot_y179=1024
+disp_type179=QUEST_CLEAR
+disp_target_id179=466
+active_type179=QUEST_CLEAR
+active_id179=466
+disp_time179=2018-01-01T00:00:00
+open_time179=2018-01-01T00:00:00
+close_time179=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id180=802104
+sing_id180=8021
+spot_name180=Ocean Castle
+spot_area180=802104
+spot_x180=429
+spot_y180=1171
+disp_type180=QUEST_CLEAR
+disp_target_id180=473
+active_type180=QUEST_CLEAR
+active_id180=473
+disp_time180=2018-01-01T00:00:00
+open_time180=2018-01-01T00:00:00
+close_time180=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id181=802105
+sing_id181=8021
+spot_name181=Quiet Ocean
+spot_area181=802105
+spot_x181=796
+spot_y181=1010
+disp_type181=QUEST_CLEAR
+disp_target_id181=472
+active_type181=QUEST_CLEAR
+active_id181=472
+disp_time181=2018-01-01T00:00:00
+open_time181=2018-01-01T00:00:00
+close_time181=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id182=802106
+sing_id182=8021
+spot_name182=Great Library
+spot_area182=802106
+spot_x182=502
+spot_y182=465
+disp_type182=QUEST_CLEAR
+disp_target_id182=479
+active_type182=QUEST_CLEAR
+active_id182=479
+disp_time182=2018-01-01T00:00:00
+open_time182=2018-01-01T00:00:00
+close_time182=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id183=802107
+sing_id183=8021
+spot_name183=Main Street
+spot_area183=802107
+spot_x183=831
+spot_y183=597
+disp_type183=QUEST_CLEAR
+disp_target_id183=478
+active_type183=QUEST_CLEAR
+active_id183=478
+disp_time183=2018-01-01T00:00:00
+open_time183=2018-01-01T00:00:00
+close_time183=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id184=802108
+sing_id184=8021
+spot_name184=Deep Snow Castle
+spot_area184=802108
+spot_x184=1831
+spot_y184=466
+disp_type184=QUEST_CLEAR
+disp_target_id184=484
+active_type184=QUEST_CLEAR
+active_id184=484
+disp_time184=2018-01-01T00:00:00
+open_time184=2018-01-01T00:00:00
+close_time184=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id185=802109
+sing_id185=8021
+spot_name185=Crystal Palace
+spot_area185=802109
+spot_x185=1126
+spot_y185=290
+disp_type185=QUEST_CLEAR
+disp_target_id185=490
+active_type185=QUEST_CLEAR
+active_id185=490
+disp_time185=2018-01-01T00:00:00
+open_time185=2018-01-01T00:00:00
+close_time185=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id186=802110
+sing_id186=8021
+spot_name186=Candy Town
+spot_area186=802110
+spot_x186=1618
+spot_y186=1233
+disp_type186=QUEST_CLEAR
+disp_target_id186=468
+active_type186=QUEST_CLEAR
+active_id186=468
+disp_time186=2018-01-01T00:00:00
+open_time186=2018-01-01T00:00:00
+close_time186=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id187=802111
+sing_id187=8021
+spot_name187=Calm Sea
+spot_area187=802111
+spot_x187=416
+spot_y187=949
+disp_type187=EVENT_MISSION_ACHIEVE
+disp_target_id187=14
+active_type187=EVENT_MISSION_ACHIEVE
+active_id187=14
+disp_time187=2018-01-01T00:00:00
+open_time187=2018-01-01T00:00:00
+close_time187=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id188=802112
+sing_id188=8021
+spot_name188=Back Alley
+spot_area188=802112
+spot_x188=333
+spot_y188=573
+disp_type188=EVENT_MISSION_ACHIEVE
+disp_target_id188=53
+active_type188=EVENT_MISSION_ACHIEVE
+active_id188=53
+disp_time188=2018-01-01T00:00:00
+open_time188=2018-01-01T00:00:00
+close_time188=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id189=802113
+sing_id189=8021
+spot_name189=Thin Ice River
+spot_area189=802113
+spot_x189=1682
+spot_y189=349
+disp_type189=QUEST_CLEAR
+disp_target_id189=486
+active_type189=QUEST_CLEAR
+active_id189=486
+disp_time189=2018-01-01T00:00:00
+open_time189=2018-01-01T00:00:00
+close_time189=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id190=802114
+sing_id190=8021
+spot_name190=Lake of Reflection
+spot_area190=802114
+spot_x190=1297
+spot_y190=345
+disp_type190=QUEST_CLEAR
+disp_target_id190=491
+active_type190=QUEST_CLEAR
+active_id190=491
+disp_time190=2018-01-01T00:00:00
+open_time190=2018-01-01T00:00:00
+close_time190=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id192=802116
+sing_id192=8021
+spot_name192=Candy Forest
+spot_area192=802110
+spot_x192=2008
+spot_y192=1231
+disp_type192=EVENT_MISSION_ACHIEVE
+disp_target_id192=1
+active_type192=EVENT_MISSION_ACHIEVE
+active_id192=1
+disp_time192=2018-01-01T00:00:00
+open_time192=2018-01-01T00:00:00
+close_time192=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id193=802117
+sing_id193=8021
+spot_name193=Stormy Ocean
+spot_area193=802111
+spot_x193=685
+spot_y193=1234
+disp_type193=QUEST_CLEAR
+disp_target_id193=473
+active_type193=QUEST_CLEAR
+active_id193=473
+disp_time193=2018-01-01T00:00:00
+open_time193=2018-01-01T00:00:00
+close_time193=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id194=802118
+sing_id194=8021
+spot_name194=Zigzag Street
+spot_area194=802112
+spot_x194=333
+spot_y194=332
+disp_type194=EVENT_MISSION_ACHIEVE
+disp_target_id194=18
+active_type194=EVENT_MISSION_ACHIEVE
+active_id194=18
+disp_time194=2018-01-01T00:00:00
+open_time194=2018-01-01T00:00:00
+close_time194=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id195=802119
+sing_id195=8021
+spot_name195=Powder Snow Hill
+spot_area195=802113
+spot_x195=2012
+spot_y195=489
+disp_type195=EVENT_MISSION_ACHIEVE
+disp_target_id195=23
+active_type195=EVENT_MISSION_ACHIEVE
+active_id195=23
+disp_time195=2018-01-01T00:00:00
+open_time195=2018-01-01T00:00:00
+close_time195=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id196=802120
+sing_id196=8021
+spot_name196=Valley of Lingering Snow
+spot_area196=802113
+spot_x196=1894
+spot_y196=664
+disp_type196=QUEST_CLEAR
+disp_target_id196=485
+active_type196=QUEST_CLEAR
+active_id196=485
+disp_time196=2018-01-01T00:00:00
+open_time196=2018-01-01T00:00:00
+close_time196=2999-12-31T23:59:59
+
+# created by Haruka Akechi
+# do not repack, give credit
+# thanks to Atlas Academy for FGO data
+# if you paid/subscribed/"donated" for this,
+# you have been scammed and should chargeback
+
+# 復刻：プリズマコーズ
+spot_id197=802121
+sing_id197=8021
+spot_name197=Glimmering Giant Tree
+spot_area197=802114
+spot_x197=957
+spot_y197=237
+disp_type197=EVENT_MISSION_ACHIEVE
+disp_target_id197=39
+active_type197=EVENT_MISSION_ACHIEVE
+active_id197=39
+disp_time197=2018-01-01T00:00:00
+open_time197=2018-01-01T00:00:00
+close_time197=2999-12-31T23:59:59
+
+# 復刻：プリズマコーズ
+spot_id198=802122
+sing_id198=8021
+spot_name198=Field of Stars
+spot_area198=802114
+spot_x198=976
+spot_y198=385
+disp_type198=EVENT_MISSION_ACHIEVE
+disp_target_id198=21
+active_type198=EVENT_MISSION_ACHIEVE
+active_id198=21
+disp_time198=2018-01-01T00:00:00
+open_time198=2018-01-01T00:00:00
+close_time198=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id200=802201
+sing_id200=8022
+spot_name200=Station
+spot_area200=802201
+spot_x200=830
+spot_y200=400
+disp_type200=NONE
+disp_target_id200=0
+active_type200=NONE
+active_id200=0
+disp_time200=2018-01-01T00:00:00
+open_time200=2018-01-01T00:00:00
+close_time200=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id201=802202
+sing_id201=8022
+spot_name201=Memories of Singularity F
+spot_area201=802202
+spot_x201=600
+spot_y201=300
+disp_type201=QUEST_CLEAR
+disp_target_id201=513
+active_type201=EVENT_MISSION_ACHIEVE
+active_id201=16
+disp_time201=2018-01-01T00:00:00
+open_time201=2018-01-01T00:00:00
+close_time201=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id202=802203
+sing_id202=8022
+spot_name202=Memories of the First Singularity
+spot_area202=802203
+spot_x202=900
+spot_y202=160
+disp_type202=QUEST_CLEAR
+disp_target_id202=513
+active_type202=EVENT_MISSION_ACHIEVE
+active_id202=40
+disp_time202=2018-01-01T00:00:00
+open_time202=2018-01-01T00:00:00
+close_time202=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id203=802204
+sing_id203=8022
+spot_name203=Memories of the Second Singularity
+spot_area203=802204
+spot_x203=1260
+spot_y203=850
+disp_type203=QUEST_CLEAR
+disp_target_id203=513
+active_type203=EVENT_MISSION_ACHIEVE
+active_id203=26
+disp_time203=2018-01-01T00:00:00
+open_time203=2018-01-01T00:00:00
+close_time203=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id204=802205
+sing_id204=8022
+spot_name204=Memories of the Third Singularity 
+spot_area204=802205
+spot_x204=250
+spot_y204=500
+disp_type204=QUEST_CLEAR
+disp_target_id204=513
+active_type204=EVENT_MISSION_ACHIEVE
+active_id204=37
+disp_time204=2018-01-01T00:00:00
+open_time204=2018-01-01T00:00:00
+close_time204=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id205=802206
+sing_id205=8022
+spot_name205=Memories of the Fourth Singularity
+spot_area205=802206
+spot_x205=1200
+spot_y205=360
+disp_type205=QUEST_CLEAR
+disp_target_id205=513
+active_type205=EVENT_MISSION_ACHIEVE
+active_id205=33
+disp_time205=2018-01-01T00:00:00
+open_time205=2018-01-01T00:00:00
+close_time205=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id206=802207
+sing_id206=8022
+spot_name206=Memories of the Fifth Singularity
+spot_area206=802207
+spot_x206=570
+spot_y206=760
+disp_type206=QUEST_CLEAR
+disp_target_id206=513
+active_type206=EVENT_MISSION_ACHIEVE
+active_id206=24
+disp_time206=2018-01-01T00:00:00
+open_time206=2018-01-01T00:00:00
+close_time206=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id207=802208
+sing_id207=8022
+spot_name207=Memories of the Sixth Singularity
+spot_area207=802208
+spot_x207=1480
+spot_y207=600
+disp_type207=QUEST_CLEAR
+disp_target_id207=513
+active_type207=EVENT_MISSION_ACHIEVE
+active_id207=15
+disp_time207=2018-01-01T00:00:00
+open_time207=2018-01-01T00:00:00
+close_time207=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id208=802209
+sing_id208=8022
+spot_name208=Memories of Rashomon
+spot_area208=802209
+spot_x208=880
+spot_y208=830
+disp_type208=QUEST_CLEAR
+disp_target_id208=517
+active_type208=NONE
+active_id208=0
+disp_time208=2018-01-01T00:00:00
+open_time208=2018-01-01T00:00:00
+close_time208=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id209=802210
+sing_id209=8022
+spot_name209=Tropical Memories
+spot_area209=802210
+spot_x209=300
+spot_y209=730
+disp_type209=QUEST_CLEAR
+disp_target_id209=517
+active_type209=NONE
+active_id209=0
+disp_time209=2018-01-01T00:00:00
+open_time209=2018-01-01T00:00:00
+close_time209=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id210=802211
+sing_id210=8022
+spot_name210=Memories of Honnoji Temple
+spot_area210=802211
+spot_x210=1520
+spot_y210=370
+disp_type210=QUEST_CLEAR
+disp_target_id210=517
+active_type210=NONE
+active_id210=0
+disp_time210=2018-01-01T00:00:00
+open_time210=2018-01-01T00:00:00
+close_time210=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id211=802212
+sing_id211=8022
+spot_name211=Memories of a snowfield
+spot_area211=802212
+spot_x211=1500
+spot_y211=820
+disp_type211=QUEST_CLEAR
+disp_target_id211=517
+active_type211=NONE
+active_id211=0
+disp_time211=2018-01-01T00:00:00
+open_time211=2018-01-01T00:00:00
+close_time211=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id212=802213
+sing_id212=8022
+spot_name212=Memories of a small island
+spot_area212=802213
+spot_x212=1040
+spot_y212=710
+disp_type212=QUEST_CLEAR
+disp_target_id212=517
+active_type212=NONE
+active_id212=0
+disp_time212=2018-01-01T00:00:00
+open_time212=2018-01-01T00:00:00
+close_time212=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id213=802214
+sing_id213=8022
+spot_name213=Memories of the snowy town
+spot_area213=802214
+spot_x213=300
+spot_y213=270
+disp_type213=QUEST_CLEAR
+disp_target_id213=517
+active_type213=NONE
+active_id213=0
+disp_time213=2018-01-01T00:00:00
+open_time213=2018-01-01T00:00:00
+close_time213=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id214=802215
+sing_id214=8022
+spot_name214=Memories of the wilderness
+spot_area214=802215
+spot_x214=650
+spot_y214=530
+disp_type214=QUEST_CLEAR
+disp_target_id214=517
+active_type214=NONE
+active_id214=0
+disp_time214=2018-01-01T00:00:00
+open_time214=2018-01-01T00:00:00
+close_time214=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id215=802216
+sing_id215=8022
+spot_name215=Apartment Complex
+spot_area215=802216
+spot_x215=1020
+spot_y215=470
+disp_type215=NONE
+disp_target_id215=0
+active_type215=QUEST_CLEAR
+active_id215=513
+disp_time215=2018-01-01T00:00:00
+open_time215=2018-01-01T00:00:00
+close_time215=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id217=802701
+sing_id217=8027
+spot_name217=Station
+spot_area217=802201
+spot_x217=830
+spot_y217=400
+disp_type217=NONE
+disp_target_id217=0
+active_type217=NONE
+active_id217=0
+disp_time217=2018-01-01T00:00:00
+open_time217=2018-01-01T00:00:00
+close_time217=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id218=802702
+sing_id218=8027
+spot_name218=Memories of Singularity F
+spot_area218=802202
+spot_x218=600
+spot_y218=300
+disp_type218=QUEST_CLEAR
+disp_target_id218=574
+active_type218=EVENT_MISSION_ACHIEVE
+active_id218=16
+disp_time218=2018-01-01T00:00:00
+open_time218=2018-01-01T00:00:00
+close_time218=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id219=802703
+sing_id219=8027
+spot_name219=Memories of the 
+First Singularity
+spot_area219=802203
+spot_x219=900
+spot_y219=160
+disp_type219=QUEST_CLEAR
+disp_target_id219=574
+active_type219=EVENT_MISSION_ACHIEVE
+active_id219=40
+disp_time219=2018-01-01T00:00:00
+open_time219=2018-01-01T00:00:00
+close_time219=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id220=802704
+sing_id220=8027
+spot_name220=Memories of the 
+Second Singularity
+spot_area220=802204
+spot_x220=1260
+spot_y220=850
+disp_type220=QUEST_CLEAR
+disp_target_id220=574
+active_type220=EVENT_MISSION_ACHIEVE
+active_id220=26
+disp_time220=2018-01-01T00:00:00
+open_time220=2018-01-01T00:00:00
+close_time220=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id221=802705
+sing_id221=8027
+spot_name221=Memories of the 
+Third Singularity 
+spot_area221=802205
+spot_x221=250
+spot_y221=500
+disp_type221=QUEST_CLEAR
+disp_target_id221=574
+active_type221=EVENT_MISSION_ACHIEVE
+active_id221=37
+disp_time221=2018-01-01T00:00:00
+open_time221=2018-01-01T00:00:00
+close_time221=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id222=802706
+sing_id222=8027
+spot_name222=Memories of the Fourth Singularity
+spot_area222=802206
+spot_x222=1200
+spot_y222=360
+disp_type222=QUEST_CLEAR
+disp_target_id222=574
+active_type222=EVENT_MISSION_ACHIEVE
+active_id222=33
+disp_time222=2018-01-01T00:00:00
+open_time222=2018-01-01T00:00:00
+close_time222=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id223=802707
+sing_id223=8027
+spot_name223=Memories of the 
+Fifth Singularity
+spot_area223=802207
+spot_x223=570
+spot_y223=760
+disp_type223=QUEST_CLEAR
+disp_target_id223=574
+active_type223=EVENT_MISSION_ACHIEVE
+active_id223=24
+disp_time223=2018-01-01T00:00:00
+open_time223=2018-01-01T00:00:00
+close_time223=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id224=802708
+sing_id224=8027
+spot_name224=Memories of the 
+Sixth Singularity
+spot_area224=802208
+spot_x224=1480
+spot_y224=600
+disp_type224=QUEST_CLEAR
+disp_target_id224=574
+active_type224=EVENT_MISSION_ACHIEVE
+active_id224=15
+disp_time224=2018-01-01T00:00:00
+open_time224=2018-01-01T00:00:00
+close_time224=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id225=802709
+sing_id225=8027
+spot_name225=Memories of Rashomon
+spot_area225=802209
+spot_x225=880
+spot_y225=830
+disp_type225=QUEST_CLEAR
+disp_target_id225=578
+active_type225=NONE
+active_id225=0
+disp_time225=2018-01-01T00:00:00
+open_time225=2018-01-01T00:00:00
+close_time225=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id226=802710
+sing_id226=8027
+spot_name226=Tropical Memories
+spot_area226=802210
+spot_x226=300
+spot_y226=730
+disp_type226=QUEST_CLEAR
+disp_target_id226=578
+active_type226=NONE
+active_id226=0
+disp_time226=2018-01-01T00:00:00
+open_time226=2018-01-01T00:00:00
+close_time226=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id227=802711
+sing_id227=8027
+spot_name227=Memories of Honnoji Temple
+spot_area227=802211
+spot_x227=1520
+spot_y227=370
+disp_type227=QUEST_CLEAR
+disp_target_id227=578
+active_type227=NONE
+active_id227=0
+disp_time227=2018-01-01T00:00:00
+open_time227=2018-01-01T00:00:00
+close_time227=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id228=802712
+sing_id228=8027
+spot_name228=Memories of a snowfield
+spot_area228=802212
+spot_x228=1500
+spot_y228=820
+disp_type228=QUEST_CLEAR
+disp_target_id228=578
+active_type228=NONE
+active_id228=0
+disp_time228=2018-01-01T00:00:00
+open_time228=2018-01-01T00:00:00
+close_time228=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id229=802713
+sing_id229=8027
+spot_name229=Memories of a small island
+spot_area229=802213
+spot_x229=1040
+spot_y229=710
+disp_type229=QUEST_CLEAR
+disp_target_id229=578
+active_type229=NONE
+active_id229=0
+disp_time229=2018-01-01T00:00:00
+open_time229=2018-01-01T00:00:00
+close_time229=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id230=802714
+sing_id230=8027
+spot_name230=Memories of a snowy town
+spot_area230=802214
+spot_x230=300
+spot_y230=270
+disp_type230=QUEST_CLEAR
+disp_target_id230=578
+active_type230=NONE
+active_id230=0
+disp_time230=2018-01-01T00:00:00
+open_time230=2018-01-01T00:00:00
+close_time230=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id231=802715
+sing_id231=8027
+spot_name231=Memories of the wilderness
+spot_area231=802215
+spot_x231=650
+spot_y231=530
+disp_type231=QUEST_CLEAR
+disp_target_id231=578
+active_type231=NONE
+active_id231=0
+disp_time231=2018-01-01T00:00:00
+open_time231=2018-01-01T00:00:00
+close_time231=2999-12-31T23:59:59
+
+# レディ・ライネスの事件簿
+spot_id232=802716
+sing_id232=8027
+spot_name232=Apartment Complex
+spot_area232=802216
+spot_x232=1020
+spot_y232=470
+disp_type232=NONE
+disp_target_id232=0
+active_type232=QUEST_CLEAR
+active_id232=574
+disp_time232=2018-01-01T00:00:00
+open_time232=2018-01-01T00:00:00
+close_time232=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id234=803101
+sing_id234=8031
+spot_name234=Kind Touch
+spot_area234=803101
+spot_x234=1200
+spot_y234=345
+disp_type234=NONE
+disp_target_id234=0
+active_type234=NONE
+active_id234=0
+disp_time234=2018-01-01T00:00:00
+open_time234=2018-01-01T00:00:00
+close_time234=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id235=803102
+sing_id235=8031
+spot_name235=Smart Liver
+spot_area235=803101
+spot_x235=850
+spot_y235=770
+disp_type235=QUEST_CLEAR
+disp_target_id235=628
+active_type235=NONE
+active_id235=0
+disp_time235=2018-01-01T00:00:00
+open_time235=2018-01-01T00:00:00
+close_time235=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id236=803103
+sing_id236=8031
+spot_name236=Lover's Squeeze
+spot_area236=803101
+spot_x236=470
+spot_y236=485
+disp_type236=QUEST_CLEAR
+disp_target_id236=628
+active_type236=NONE
+active_id236=0
+disp_time236=2018-01-01T00:00:00
+open_time236=2018-01-01T00:00:00
+close_time236=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id237=803104
+sing_id237=8031
+spot_name237=Slipped Knee
+spot_area237=803101
+spot_x237=1070
+spot_y237=960
+disp_type237=QUEST_CLEAR
+disp_target_id237=629
+active_type237=NONE
+active_id237=0
+disp_time237=2018-01-01T00:00:00
+open_time237=2018-01-01T00:00:00
+close_time237=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id238=803105
+sing_id238=8031
+spot_name238=Bottom Heel
+spot_area238=803101
+spot_x238=970
+spot_y238=1560
+disp_type238=QUEST_CLEAR
+disp_target_id238=630
+active_type238=NONE
+active_id238=0
+disp_time238=2018-01-01T00:00:00
+open_time238=2018-01-01T00:00:00
+close_time238=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id239=803106
+sing_id239=8031
+spot_name239=Only Heart
+spot_area239=803101
+spot_x239=840
+spot_y239=595
+disp_type239=QUEST_CLEAR
+disp_target_id239=632
+active_type239=NONE
+active_id239=0
+disp_time239=2018-01-01T00:00:00
+open_time239=2018-01-01T00:00:00
+close_time239=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id240=803107
+sing_id240=8031
+spot_name240=Final Step
+spot_area240=803101
+spot_x240=1560
+spot_y240=1580
+disp_type240=QUEST_CLEAR
+disp_target_id240=637
+active_type240=NONE
+active_id240=0
+disp_time240=2018-01-01T00:00:00
+open_time240=2018-01-01T00:00:00
+close_time240=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id241=803108
+sing_id241=8031
+spot_name241=Traces of anomalous gravity
+spot_area241=803102
+spot_x241=420
+spot_y241=665
+disp_type241=QUEST_CLEAR
+disp_target_id241=638
+active_type241=NONE
+active_id241=0
+disp_time241=2018-01-01T00:00:00
+open_time241=2018-01-01T00:00:00
+close_time241=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id243=804001
+sing_id243=8040
+spot_name243=Kind Touch
+spot_area243=803101
+spot_x243=1200
+spot_y243=345
+disp_type243=NONE
+disp_target_id243=0
+active_type243=NONE
+active_id243=0
+disp_time243=2018-01-01T00:00:00
+open_time243=2018-01-01T00:00:00
+close_time243=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id244=804002
+sing_id244=8040
+spot_name244=Smart Liver
+spot_area244=803101
+spot_x244=850
+spot_y244=770
+disp_type244=QUEST_CLEAR
+disp_target_id244=715
+active_type244=NONE
+active_id244=0
+disp_time244=2018-01-01T00:00:00
+open_time244=2018-01-01T00:00:00
+close_time244=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id245=804003
+sing_id245=8040
+spot_name245=Lover's Squeeze
+spot_area245=803101
+spot_x245=470
+spot_y245=485
+disp_type245=QUEST_CLEAR
+disp_target_id245=715
+active_type245=NONE
+active_id245=0
+disp_time245=2018-01-01T00:00:00
+open_time245=2018-01-01T00:00:00
+close_time245=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id246=804004
+sing_id246=8040
+spot_name246=Slipped Knee
+spot_area246=803101
+spot_x246=1070
+spot_y246=960
+disp_type246=QUEST_CLEAR
+disp_target_id246=716
+active_type246=NONE
+active_id246=0
+disp_time246=2018-01-01T00:00:00
+open_time246=2018-01-01T00:00:00
+close_time246=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id247=804005
+sing_id247=8040
+spot_name247=Bottom Heel
+spot_area247=803101
+spot_x247=970
+spot_y247=1560
+disp_type247=QUEST_CLEAR
+disp_target_id247=717
+active_type247=NONE
+active_id247=0
+disp_time247=2018-01-01T00:00:00
+open_time247=2018-01-01T00:00:00
+close_time247=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id248=804006
+sing_id248=8040
+spot_name248=Only Heart
+spot_area248=803101
+spot_x248=840
+spot_y248=595
+disp_type248=QUEST_CLEAR
+disp_target_id248=719
+active_type248=NONE
+active_id248=0
+disp_time248=2018-01-01T00:00:00
+open_time248=2018-01-01T00:00:00
+close_time248=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id249=804007
+sing_id249=8040
+spot_name249=Final Step
+spot_area249=803101
+spot_x249=1560
+spot_y249=1580
+disp_type249=QUEST_CLEAR
+disp_target_id249=724
+active_type249=NONE
+active_id249=0
+disp_time249=2018-01-01T00:00:00
+open_time249=2018-01-01T00:00:00
+close_time249=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id250=804008
+sing_id250=8040
+spot_name250=Traces of anomalous gravity
+spot_area250=803102
+spot_x250=420
+spot_y250=665
+disp_type250=QUEST_CLEAR
+disp_target_id250=725
+active_type250=NONE
+active_id250=0
+disp_time250=2018-01-01T00:00:00
+open_time250=2018-01-01T00:00:00
+close_time250=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id252=805701
+sing_id252=8057
+spot_name252=Kind Touch
+spot_area252=803101
+spot_x252=1200
+spot_y252=345
+disp_type252=NONE
+disp_target_id252=0
+active_type252=NONE
+active_id252=0
+disp_time252=2018-01-01T00:00:00
+open_time252=2018-01-01T00:00:00
+close_time252=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id253=805702
+sing_id253=8057
+spot_name253=Smart Liver
+spot_area253=803101
+spot_x253=850
+spot_y253=770
+disp_type253=QUEST_CLEAR
+disp_target_id253=855
+active_type253=NONE
+active_id253=0
+disp_time253=2018-01-01T00:00:00
+open_time253=2018-01-01T00:00:00
+close_time253=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id254=805703
+sing_id254=8057
+spot_name254=Lover's Squeeze
+spot_area254=803101
+spot_x254=470
+spot_y254=485
+disp_type254=QUEST_CLEAR
+disp_target_id254=855
+active_type254=NONE
+active_id254=0
+disp_time254=2018-01-01T00:00:00
+open_time254=2018-01-01T00:00:00
+close_time254=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id255=805704
+sing_id255=8057
+spot_name255=Slipped Knee
+spot_area255=803101
+spot_x255=1070
+spot_y255=960
+disp_type255=QUEST_CLEAR
+disp_target_id255=856
+active_type255=NONE
+active_id255=0
+disp_time255=2018-01-01T00:00:00
+open_time255=2018-01-01T00:00:00
+close_time255=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id256=805705
+sing_id256=8057
+spot_name256=Bottom Heel
+spot_area256=803101
+spot_x256=970
+spot_y256=1560
+disp_type256=QUEST_CLEAR
+disp_target_id256=857
+active_type256=NONE
+active_id256=0
+disp_time256=2018-01-01T00:00:00
+open_time256=2018-01-01T00:00:00
+close_time256=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id257=805706
+sing_id257=8057
+spot_name257=Only Heart
+spot_area257=803101
+spot_x257=840
+spot_y257=595
+disp_type257=QUEST_CLEAR
+disp_target_id257=859
+active_type257=NONE
+active_id257=0
+disp_time257=2018-01-01T00:00:00
+open_time257=2018-01-01T00:00:00
+close_time257=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id258=805707
+sing_id258=8057
+spot_name258=Final Step
+spot_area258=803101
+spot_x258=1560
+spot_y258=1580
+disp_type258=QUEST_CLEAR
+disp_target_id258=864
+active_type258=NONE
+active_id258=0
+disp_time258=2018-01-01T00:00:00
+open_time258=2018-01-01T00:00:00
+close_time258=2999-12-31T23:59:59
+
+# CCCコラボイベント
+spot_id259=805708
+sing_id259=8057
+spot_name259=Traces of anomalous gravity
+spot_area259=803102
+spot_x259=420
+spot_y259=665
+disp_type259=QUEST_CLEAR
+disp_target_id259=865
+active_type259=NONE
+active_id259=0
+disp_time259=2018-01-01T00:00:00
+open_time259=2018-01-01T00:00:00
+close_time259=2999-12-31T23:59:59
