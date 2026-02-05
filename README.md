@@ -7,8 +7,11 @@ Translation Tracker by NOGAMES
 Some translation by NOGAMES
 
 WARNING: Always back up your old files before replacing them with the translated files.
+
 WARNING: These have not yet been QCed for 'fit' within the game text bounds.
+
 WARNING: I have not made enough progress to validate translation additions in-game yet.
+
 User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation.
 
 Just replace all files with those found in rom folder in appropriate directories.
