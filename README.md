@@ -4,6 +4,7 @@ See: 'FGOA Version 11.00 TranslationTracker Version xx.xx1.xlsx' for the current
 
 
 Translation Tracker by NOGAMES
+
 Some translation by NOGAMES
 
 WARNING: Always back up your old files before replacing them with the translated files.
