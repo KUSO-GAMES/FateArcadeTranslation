@@ -15,7 +15,7 @@ WARNING: I have not made enough progress to validate translation additions in-ga
 
 User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation.
 
-WARNIGN: Please update your game version to the latest base version with additions you want to use BEFORE replacing the files with those in the translation pack.
+*** WARNING: Please update your game version to the latest base version with additions you want to use BEFORE replacing the files with those in the translation pack. ***
 
 Just replace all files with those found in rom folder in appropriate directories.
 The directory titled 'new (for reference only)' contains the files changed in this version and does not need to be added to the game files.
