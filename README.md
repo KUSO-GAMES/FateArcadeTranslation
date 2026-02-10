@@ -1,11 +1,12 @@
-Fork of Haruka Akechi's FGO Arcade translation
+Fork of Haruka Akechi's FGO Arcade translation.
+
 See: 'Update notes FGOA ver. 11.00 - Translation ver. xx.xx.txt' for the updates within this release as well as important details.
 See: 'FGOA Version 11.00 TranslationTracker Version xx.xx1.xlsx' for the current status of translation progress.
 
 
 Translation Tracker by NOGAMES
 
-Some translation by NOGAMES
+Some translation by NOGAMES. Sprite edits by NOGAMES.
 
 WARNING: Always back up your old files before replacing them with the translated files.
 
@@ -13,7 +14,7 @@ WARNING: These have not yet been QCed for 'fit' within the game text bounds.
 
 WARNING: I have not made enough progress to validate translation additions in-game yet.
 
-User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation.
+User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation. Translations/Sprites are subject to change as I continue working on the project.
 
 *** WARNING: Please update your game version to the latest base version with additions you want to use BEFORE replacing the files with those in the translation pack. ***
 
