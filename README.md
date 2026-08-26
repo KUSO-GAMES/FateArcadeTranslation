@@ -4,9 +4,9 @@ See: 'Update notes FGOA ver. 11.00 - Translation ver. xx.xx.txt' for the updates
 See: 'FGOA Version 11.00 TranslationTracker Version xx.xx1.xlsx' for the current status of translation progress.
 
 
-Translation Tracker by NOGAMES
+Translation Tracker in this fork by NOGAMES
 
-Some translation by NOGAMES. Sprite edits by NOGAMES.
+Some translation (included in this fork) machine TL'ed or TL'ed by NOGAMES. Sprite edits in this fork by NOGAMES.
 
 WARNING: Always back up your old files before replacing them with the translated files.
 
@@ -15,6 +15,7 @@ WARNING: These have not yet been QCed for 'fit' within the game text bounds.
 WARNING: I have not made enough progress to validate translation additions in-game yet.
 
 User experience may vary. Added translations contributed through mixed methods (legacy FGO mobile, prior knowledge) and machine translation. Translations/Sprites are subject to change as I continue working on the project.
+This is a very basic modification to some constant UI stuff across a few of the singularities and general game UI.
 
 *** WARNING: Please update your game version to the latest base version with additions you want to use BEFORE replacing the files with those in the translation pack. ***
 
@@ -22,6 +23,10 @@ Just replace all files with those found in rom folder in appropriate directories
 The directory titled 'new (for reference only)' contains the files changed in this version and does not need to be added to the game files.
 
 Credits to Haruka Akechi for tools used to unpack/repack files and for initial translation across various files.
+Some examples:
+<img width="3840" height="2160" alt="ago_e8QMexXVGB" src="https://github.com/user-attachments/assets/3cafefce-cd1b-4b7c-96ad-9e9bd1341eb9" />
+<img width="3840" height="2160" alt="ago_xDVQu66gRM" src="https://github.com/user-attachments/assets/f9672813-5a1b-42f1-a5c9-7df94f98e551" />
+<img width="3840" height="2160" alt="ago_h3wCWnYqfx" src="https://github.com/user-attachments/assets/bcc43de8-8703-4dbe-8b5f-0c988a8f8ceb" />
 
 
 
